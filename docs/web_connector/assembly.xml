@@ -1,0 +1,5581 @@
+<?xml version="1.0" ?>
+<QBXML>
+<QBXMLMsgsRs>
+<BuildAssemblyQueryRs requestID="8" statusCode="0" statusSeverity="Info" statusMessage="Status OK" iteratorRemainingCount="0" iteratorID="{1ce04503-21ed-4de0-9cba-7c530133d24e}">
+<BuildAssemblyRet>
+<TxnID>6B206C-1517247033</TxnID>
+<TimeCreated>2018-01-29T11:30:33-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:31:08-06:00</TimeModified>
+<EditSequence>1517254268</EditSequence>
+<TxnNumber>426124</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000194-1474470719</ListID>
+<FullName>Alm&#237;bar de Frutilla LC</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-03</TxnDate>
+<RefNumber>20180103/FQ</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>231.3</QuantityToBuild>
+<QuantityCanBuild>0.99959</QuantityCanBuild>
+<QuantityOnHand>244.3</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000193-1474470160</ListID>
+<FullName>Frutilla Despitonada</FullName>
+</ItemRef>
+<Desc>Frutilla Despitonada</Desc>
+<QuantityOnHand>0.99959</QuantityOnHand>
+<QuantityNeeded>206.00041</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>46.26</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000192-1473880111</ListID>
+<FullName>Funda Pulpa</FullName>
+</ItemRef>
+<Desc>Funda Pulpa</Desc>
+<QuantityOnHand>151.87</QuantityOnHand>
+<QuantityNeeded>23.13</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B204E-1517246714</TxnID>
+<TimeCreated>2018-01-29T11:25:14-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:25:14-06:00</TimeModified>
+<EditSequence>1517246714</EditSequence>
+<TxnNumber>426122</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000017-1317912731</ListID>
+<FullName>Helados Ideal:101</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-04</TxnDate>
+<RefNumber>LC101180104</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>7462</QuantityToBuild>
+<QuantityCanBuild>5360.67274</QuantityCanBuild>
+<QuantityOnHand>15681</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>73.57532</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>122.67528</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000B-1317760545</ListID>
+<FullName>Coco mediano</FullName>
+</ItemRef>
+<Desc>Coco criollo maduro mediano</Desc>
+<QuantityOnHand>324.96151</QuantityOnHand>
+<QuantityNeeded>61.33764</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>66.26256</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000015-1317763657</ListID>
+<FullName>Esencia de Coco</FullName>
+</ItemRef>
+<Desc>Esencia de coco</Desc>
+<QuantityOnHand>13173.21163</QuantityOnHand>
+<QuantityNeeded>368.02584</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000012A-1361978555</ListID>
+<FullName>Funda Coco Kids 60 g NUEVO</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Coco  Kids 60 g NUEVO</Desc>
+<QuantityOnHand>393394</QuantityOnHand>
+<QuantityNeeded>7462</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>245.35056</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>662.47636</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>7462</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>10.22294</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>746.2</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>7462</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>7462</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B205D-1517246752</TxnID>
+<TimeCreated>2018-01-29T11:25:52-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:25:52-06:00</TimeModified>
+<EditSequence>1517246752</EditSequence>
+<TxnNumber>426123</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000001-1316627288</ListID>
+<FullName>Helados S&#250;per:001</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-04</TxnDate>
+<RefNumber>LC001180104</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>6609</QuantityToBuild>
+<QuantityCanBuild>2924.00331</QuantityCanBuild>
+<QuantityOnHand>22287</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>119.55681</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>199.19526</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>107.59452</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000015-1317763657</ListID>
+<FullName>Esencia de Coco</FullName>
+</ItemRef>
+<Desc>Esencia de coco</Desc>
+<QuantityOnHand>13173.21163</QuantityOnHand>
+<QuantityNeeded>597.65187</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000012-1317761640</ListID>
+<FullName>Funda Coco Original</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Coco Original 110 g</Desc>
+<QuantityOnHand>246544</QuantityOnHand>
+<QuantityNeeded>6609</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>398.39052</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>1075.74693</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>6609</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000B-1317760545</ListID>
+<FullName>Coco mediano</FullName>
+</ItemRef>
+<Desc>Coco criollo maduro mediano</Desc>
+<QuantityOnHand>324.96151</QuantityOnHand>
+<QuantityNeeded>99.59763</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>16.58859</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>660.9</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>6609</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>6609</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2080-1517247254</TxnID>
+<TimeCreated>2018-01-29T11:34:14-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:34:14-06:00</TimeModified>
+<EditSequence>1517247254</EditSequence>
+<TxnNumber>426126</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>8000004C-1320854705</ListID>
+<FullName>Helados Ideal:108</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-05</TxnDate>
+<RefNumber>LC108180105</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>544</QuantityToBuild>
+<QuantityCanBuild>13814.00538</QuantityCanBuild>
+<QuantityOnHand>3360</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>6.37024</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>15.56928</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000033-1320695782</ListID>
+<FullName>Funda Frutilla Kids 60 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Frutilla  Kids 60 g</Desc>
+<QuantityOnHand>36658</QuantityOnHand>
+<QuantityNeeded>544</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>14.14944</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>32.55296</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000024-1318881127</ListID>
+<FullName>Rojo 40</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n de Colorante rojo 40 al 25 %</Desc>
+<QuantityOnHand>5298.10666</QuantityOnHand>
+<QuantityNeeded>16.98368</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>544</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>4.95584</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000194-1474470719</ListID>
+<FullName>Alm&#237;bar de Frutilla LC</FullName>
+</ItemRef>
+<Desc>Alm&#237;bar de Frutilla LC</Desc>
+<QuantityOnHand>153.88235</QuantityOnHand>
+<QuantityNeeded>7.07744</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000004B-1320854190</ListID>
+<FullName>Esencia de Fresa</FullName>
+</ItemRef>
+<Desc>Esencia de fresa 502.725 C</Desc>
+<QuantityOnHand>2757.65233</QuantityOnHand>
+<QuantityNeeded>21.23232</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>54.4</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>544</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>544</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B208F-1517247281</TxnID>
+<TimeCreated>2018-01-29T11:34:41-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:34:41-06:00</TimeModified>
+<EditSequence>1517247281</EditSequence>
+<TxnNumber>426127</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000001-1316627288</ListID>
+<FullName>Helados S&#250;per:001</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-05</TxnDate>
+<RefNumber>LC001180105</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>2505</QuantityToBuild>
+<QuantityCanBuild>419.00331</QuantityCanBuild>
+<QuantityOnHand>24614</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>45.31545</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>75.5007</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>40.7814</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000015-1317763657</ListID>
+<FullName>Esencia de Coco</FullName>
+</ItemRef>
+<Desc>Esencia de coco</Desc>
+<QuantityOnHand>13173.21163</QuantityOnHand>
+<QuantityNeeded>226.52715</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000012-1317761640</ListID>
+<FullName>Funda Coco Original</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Coco Original 110 g</Desc>
+<QuantityOnHand>246544</QuantityOnHand>
+<QuantityNeeded>2505</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>151.0014</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>407.73885</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>2505</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000B-1317760545</ListID>
+<FullName>Coco mediano</FullName>
+</ItemRef>
+<Desc>Coco criollo maduro mediano</Desc>
+<QuantityOnHand>324.96151</QuantityOnHand>
+<QuantityNeeded>37.75035</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>6.28755</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>250.5</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>2505</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>2505</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B209E-1517247313</TxnID>
+<TimeCreated>2018-01-29T11:35:13-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:35:13-06:00</TimeModified>
+<EditSequence>1517247313</EditSequence>
+<TxnNumber>426128</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000045-1320783003</ListID>
+<FullName>Helados Ideal:105</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-05</TxnDate>
+<RefNumber>LC105180105</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>2011</QuantityToBuild>
+<QuantityCanBuild>23853.19867</QuantityCanBuild>
+<QuantityOnHand>7044</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>20.99484</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>62.96441</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000023-1318880526</ListID>
+<FullName>Esencia de Vainilla</FullName>
+</ItemRef>
+<Desc>Esencia de Vainilla Francesa</Desc>
+<QuantityOnHand>6240.35925</QuantityOnHand>
+<QuantityNeeded>97.9357</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000030-1320695605</ListID>
+<FullName>Funda Chocolate Kids 60 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Chocolate  Kids 60 g</Desc>
+<QuantityOnHand>57469</QuantityOnHand>
+<QuantityNeeded>2011</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>69.94258</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>181.87484</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>2011</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000022-1318875671</ListID>
+<FullName>Polvo de Cacao</FullName>
+</ItemRef>
+<Desc>Polvo de cacao alcalino</Desc>
+<QuantityOnHand>222.84387</QuantityOnHand>
+<QuantityNeeded>4.88673</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>24.47387</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>201.1</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>2011</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>2011</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B20AC-1517247348</TxnID>
+<TimeCreated>2018-01-29T11:35:48-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:35:48-06:00</TimeModified>
+<EditSequence>1517247348</EditSequence>
+<TxnNumber>426129</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000044-1320782789</ListID>
+<FullName>Helados S&#250;per:005</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-05</TxnDate>
+<RefNumber>LC005180105</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>3365</QuantityToBuild>
+<QuantityCanBuild>13009.47545</QuantityCanBuild>
+<QuantityOnHand>9155</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>64.37245</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>193.11735</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000023-1318880526</ListID>
+<FullName>Esencia de Vainilla</FullName>
+</ItemRef>
+<Desc>Esencia de Vainilla Francesa</Desc>
+<QuantityOnHand>6240.35925</QuantityOnHand>
+<QuantityNeeded>300.4272</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000028-1320694660</ListID>
+<FullName>Funda Chocolate Original</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso chocolate Original 110 g</Desc>
+<QuantityOnHand>94979</QuantityOnHand>
+<QuantityNeeded>3365</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>214.58605</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>557.95065</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>3365</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000022-1318875671</ListID>
+<FullName>Polvo de Cacao</FullName>
+</ItemRef>
+<Desc>Polvo de cacao alcalino</Desc>
+<QuantityOnHand>222.84387</QuantityOnHand>
+<QuantityNeeded>15.0079</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>75.1068</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>336.5</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>3365</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>3365</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B20BA-1517247378</TxnID>
+<TimeCreated>2018-01-29T11:36:18-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:36:18-06:00</TimeModified>
+<EditSequence>1517247378</EditSequence>
+<TxnNumber>426130</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000117-1327337706</ListID>
+<FullName>MINI COQUEIROS:MC005</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-05</TxnDate>
+<RefNumber>MC005180105</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>525</QuantityToBuild>
+<QuantityCanBuild>95357.95977</QuantityCanBuild>
+<QuantityOnHand>526</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>1.37025</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>4.11075</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000023-1318880526</ListID>
+<FullName>Esencia de Vainilla</FullName>
+</ItemRef>
+<Desc>Esencia de Vainilla Francesa</Desc>
+<QuantityOnHand>6240.35925</QuantityOnHand>
+<QuantityNeeded>6.38925</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000014-1317762623</ListID>
+<FullName>Funda Minicoqueiro</FullName>
+</ItemRef>
+<Desc>Funda minicoqueiro</Desc>
+<QuantityOnHand>177327</QuantityOnHand>
+<QuantityNeeded>525</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>4.5675</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>11.87025</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000176-1457387021</ListID>
+<FullName>Paleta corta mini</FullName>
+</ItemRef>
+<Desc>Paleta corta mini de 63mm</Desc>
+<QuantityOnHand>128127</QuantityOnHand>
+<QuantityNeeded>525</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000022-1318875671</ListID>
+<FullName>Polvo de Cacao</FullName>
+</ItemRef>
+<Desc>Polvo de cacao alcalino</Desc>
+<QuantityOnHand>222.84387</QuantityOnHand>
+<QuantityNeeded>0.32025</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>1.596</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2071-1517247212</TxnID>
+<TimeCreated>2018-01-29T11:33:32-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:31:49-06:00</TimeModified>
+<EditSequence>1517254309</EditSequence>
+<TxnNumber>426125</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>8000004A-1320853923</ListID>
+<FullName>Helados S&#250;per:008</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-05</TxnDate>
+<RefNumber>LC008180105</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>2411</QuantityToBuild>
+<QuantityCanBuild>7535.43857</QuantityCanBuild>
+<QuantityOnHand>4820</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>51.74006</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>126.50517</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000002B-1320695194</ListID>
+<FullName>Funda Frutilla Original 110 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Frutilla Original 110 g</Desc>
+<QuantityOnHand>112957</QuantityOnHand>
+<QuantityNeeded>2411</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>115.0047</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>26.44867</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000024-1318881127</ListID>
+<FullName>Rojo 40</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n de Colorante rojo 40 al 25 %</Desc>
+<QuantityOnHand>5298.10666</QuantityOnHand>
+<QuantityNeeded>138.00564</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>2411</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>40.23959</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000194-1474470719</ListID>
+<FullName>Alm&#237;bar de Frutilla LC</FullName>
+</ItemRef>
+<Desc>Alm&#237;bar de Frutilla LC</Desc>
+<QuantityOnHand>153.88235</QuantityOnHand>
+<QuantityNeeded>57.50235</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000004B-1320854190</ListID>
+<FullName>Esencia de Fresa</FullName>
+</ItemRef>
+<Desc>Esencia de fresa 502.725 C</Desc>
+<QuantityOnHand>2757.65233</QuantityOnHand>
+<QuantityNeeded>172.50705</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>241.1</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>2411</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>2411</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B20C5-1517247406</TxnID>
+<TimeCreated>2018-01-29T11:36:46-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:33:36-06:00</TimeModified>
+<EditSequence>1517254416</EditSequence>
+<TxnNumber>426131</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>8000011A-1327338004</ListID>
+<FullName>MINI COQUEIROS:MC008</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-05</TxnDate>
+<RefNumber>MC008180105</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>522</QuantityToBuild>
+<QuantityCanBuild>1.07692</QuantityCanBuild>
+<QuantityOnHand>522</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>1.52946</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>3.7323</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000014-1317762623</ListID>
+<FullName>Funda Minicoqueiro</FullName>
+</ItemRef>
+<Desc>Funda minicoqueiro</Desc>
+<QuantityOnHand>177327</QuantityOnHand>
+<QuantityNeeded>522</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>3.393</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>7.80912</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000024-1318881127</ListID>
+<FullName>Rojo 40</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n de Colorante rojo 40 al 25 %</Desc>
+<QuantityOnHand>5298.10666</QuantityOnHand>
+<QuantityNeeded>4.07682</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000176-1457387021</ListID>
+<FullName>Paleta corta mini</FullName>
+</ItemRef>
+<Desc>Paleta corta mini de 63mm</Desc>
+<QuantityOnHand>128127</QuantityOnHand>
+<QuantityNeeded>522</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>1.19016</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000001D-1318873957</ListID>
+<FullName>Alm&#237;bar de Frutilla</FullName>
+</ItemRef>
+<Desc>Alm&#237;bar de frutilla al 20%
+</Desc>
+<QuantityOnHand>0.0035</QuantityOnHand>
+<QuantityNeeded>1.6965</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000004B-1320854190</ListID>
+<FullName>Esencia de Fresa</FullName>
+</ItemRef>
+<Desc>Esencia de fresa 502.725 C</Desc>
+<QuantityOnHand>2757.65233</QuantityOnHand>
+<QuantityNeeded>5.09472</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B20E0-1517247548</TxnID>
+<TimeCreated>2018-01-29T11:39:08-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:39:08-06:00</TimeModified>
+<EditSequence>1517247548</EditSequence>
+<TxnNumber>426133</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000040-1320781116</ListID>
+<FullName>Helados S&#250;per:003</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-08</TxnDate>
+<RefNumber>LC003180108</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>1798</QuantityToBuild>
+<QuantityCanBuild>8604.1064</QuantityCanBuild>
+<QuantityOnHand>4928</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>38.63902</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>94.43096</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003D-1320699232</ListID>
+<FullName>Colorante verde esmeralda</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n Verde Esmeraldas al 10%</Desc>
+<QuantityOnHand>12034.56911</QuantityOnHand>
+<QuantityNeeded>4.29722</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>30.04458</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000026-1320694310</ListID>
+<FullName>Funda Naranjilla Original 110 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Naranjilla Original 110 g</Desc>
+<QuantityOnHand>19493</QuantityOnHand>
+<QuantityNeeded>1798</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>85.83652</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>197.43838</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>1798</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000A-1317760234</ListID>
+<FullName>Pulpa de Naranjilla</FullName>
+</ItemRef>
+<Desc>Pulpa de naranjilla de jugo</Desc>
+<QuantityOnHand>134.8289</QuantityOnHand>
+<QuantityNeeded>42.91826</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>39.48408</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>179.8</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>1798</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>1798</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B20EF-1517247592</TxnID>
+<TimeCreated>2018-01-29T11:39:52-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:39:52-06:00</TimeModified>
+<EditSequence>1517247592</EditSequence>
+<TxnNumber>426134</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000115-1327337373</ListID>
+<FullName>MINI COQUEIROS:MC003</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-08</TxnDate>
+<RefNumber>MC003180108</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>522</QuantityToBuild>
+<QuantityCanBuild>63000.00613</QuantityCanBuild>
+<QuantityOnHand>522</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>1.52946</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>3.73752</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003D-1320699232</ListID>
+<FullName>Colorante verde esmeralda</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n Verde Esmeraldas al 10%</Desc>
+<QuantityOnHand>12034.56911</QuantityOnHand>
+<QuantityNeeded>0.17226</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>1.19016</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000014-1317762623</ListID>
+<FullName>Funda Minicoqueiro</FullName>
+</ItemRef>
+<Desc>Funda minicoqueiro</Desc>
+<QuantityOnHand>177327</QuantityOnHand>
+<QuantityNeeded>522</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>3.39822</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>7.81434</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000176-1457387021</ListID>
+<FullName>Paleta corta mini</FullName>
+</ItemRef>
+<Desc>Paleta corta mini de 63mm</Desc>
+<QuantityOnHand>128127</QuantityOnHand>
+<QuantityNeeded>522</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000A-1317760234</ListID>
+<FullName>Pulpa de Naranjilla</FullName>
+</ItemRef>
+<Desc>Pulpa de naranjilla de jugo</Desc>
+<QuantityOnHand>134.8289</QuantityOnHand>
+<QuantityNeeded>1.70172</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>1.56078</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B20D1-1517247508</TxnID>
+<TimeCreated>2018-01-29T11:38:28-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:33:55-06:00</TimeModified>
+<EditSequence>1517254435</EditSequence>
+<TxnNumber>426132</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>8000004C-1320854705</ListID>
+<FullName>Helados Ideal:108</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-08</TxnDate>
+<RefNumber>LC103180108</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>1986</QuantityToBuild>
+<QuantityCanBuild>11828.00538</QuantityCanBuild>
+<QuantityOnHand>5343</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>23.25606</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>56.83932</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000033-1320695782</ListID>
+<FullName>Funda Frutilla Kids 60 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Frutilla  Kids 60 g</Desc>
+<QuantityOnHand>36658</QuantityOnHand>
+<QuantityNeeded>1986</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>51.65586</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>118.84224</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000024-1318881127</ListID>
+<FullName>Rojo 40</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n de Colorante rojo 40 al 25 %</Desc>
+<QuantityOnHand>5298.10666</QuantityOnHand>
+<QuantityNeeded>62.00292</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>1986</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>18.09246</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000194-1474470719</ListID>
+<FullName>Alm&#237;bar de Frutilla LC</FullName>
+</ItemRef>
+<Desc>Alm&#237;bar de Frutilla LC</Desc>
+<QuantityOnHand>153.88235</QuantityOnHand>
+<QuantityNeeded>25.83786</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000004B-1320854190</ListID>
+<FullName>Esencia de Fresa</FullName>
+</ItemRef>
+<Desc>Esencia de fresa 502.725 C</Desc>
+<QuantityOnHand>2757.65233</QuantityOnHand>
+<QuantityNeeded>77.51358</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>198.6</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>1986</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>1986</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B20FB-1517247676</TxnID>
+<TimeCreated>2018-01-29T11:41:16-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:41:16-06:00</TimeModified>
+<EditSequence>1517247676</EditSequence>
+<TxnNumber>426135</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000017-1317912731</ListID>
+<FullName>Helados Ideal:101</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-09</TxnDate>
+<RefNumber>LC101180109</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>5314</QuantityToBuild>
+<QuantityCanBuild>1365.84793</QuantityCanBuild>
+<QuantityOnHand>20456</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>52.39604</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>87.36216</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000B-1317760545</ListID>
+<FullName>Coco mediano</FullName>
+</ItemRef>
+<Desc>Coco criollo maduro mediano</Desc>
+<QuantityOnHand>324.96151</QuantityOnHand>
+<QuantityNeeded>43.68108</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>47.18832</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000015-1317763657</ListID>
+<FullName>Esencia de Coco</FullName>
+</ItemRef>
+<Desc>Esencia de coco</Desc>
+<QuantityOnHand>13173.21163</QuantityOnHand>
+<QuantityNeeded>262.08648</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000012A-1361978555</ListID>
+<FullName>Funda Coco Kids 60 g NUEVO</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Coco  Kids 60 g NUEVO</Desc>
+<QuantityOnHand>393394</QuantityOnHand>
+<QuantityNeeded>5314</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>174.72432</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>471.77692</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>5314</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>7.28018</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>531.4</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>5314</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>5314</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B210A-1517247714</TxnID>
+<TimeCreated>2018-01-29T11:41:54-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:41:54-06:00</TimeModified>
+<EditSequence>1517247714</EditSequence>
+<TxnNumber>426136</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000001-1316627288</ListID>
+<FullName>Helados S&#250;per:001</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-09</TxnDate>
+<RefNumber>LC001180109</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>6729</QuantityToBuild>
+<QuantityCanBuild>745.00796</QuantityCanBuild>
+<QuantityOnHand>30857</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>121.72761</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>202.81206</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>109.54812</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000015-1317763657</ListID>
+<FullName>Esencia de Coco</FullName>
+</ItemRef>
+<Desc>Esencia de coco</Desc>
+<QuantityOnHand>13173.21163</QuantityOnHand>
+<QuantityNeeded>608.50347</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000012-1317761640</ListID>
+<FullName>Funda Coco Original</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Coco Original 110 g</Desc>
+<QuantityOnHand>246544</QuantityOnHand>
+<QuantityNeeded>6729</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>405.62412</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>1095.27933</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>6729</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000B-1317760545</ListID>
+<FullName>Coco mediano</FullName>
+</ItemRef>
+<Desc>Coco criollo maduro mediano</Desc>
+<QuantityOnHand>324.96151</QuantityOnHand>
+<QuantityNeeded>101.40603</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>16.88979</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>672.9</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>6729</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>6729</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2119-1517247777</TxnID>
+<TimeCreated>2018-01-29T11:42:57-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:42:57-06:00</TimeModified>
+<EditSequence>1517247777</EditSequence>
+<TxnNumber>426137</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000047-1320852893</ListID>
+<FullName>Helados Ideal:106</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-10</TxnDate>
+<RefNumber>LC106180110</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>2002</QuantityToBuild>
+<QuantityCanBuild>11444.9099</QuantityCanBuild>
+<QuantityOnHand>5951</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>20.44042</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>59.17912</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000031-1320695659</ListID>
+<FullName>Funda Guan&#225;bana Kids 60 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Guan&#225;bana  Kids 60 g</Desc>
+<QuantityOnHand>46492</QuantityOnHand>
+<QuantityNeeded>2002</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>53.79374</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>107.58748</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000001E-1318874084</ListID>
+<FullName>Guan&#225;bana en mota</FullName>
+</ItemRef>
+<Desc>Guan&#225;bana en mota</Desc>
+<QuantityOnHand>153.70514</QuantityOnHand>
+<QuantityNeeded>26.88686</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>2002</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>18.8188</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>200.2</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>2002</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>2002</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2126-1517247814</TxnID>
+<TimeCreated>2018-01-29T11:43:34-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:43:34-06:00</TimeModified>
+<EditSequence>1517247814</EditSequence>
+<TxnNumber>426138</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000046-1320852781</ListID>
+<FullName>Helados S&#250;per:006</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-10</TxnDate>
+<RefNumber>LC006180110</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>1600</QuantityToBuild>
+<QuantityCanBuild>6240.56597</QuantityCanBuild>
+<QuantityOnHand>7245</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>29.952</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>86.688</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000029-1320694738</ListID>
+<FullName>Funda Guan&#225;bana Original 110 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Guan&#225;bana Original 110 g</Desc>
+<QuantityOnHand>44923</QuantityOnHand>
+<QuantityNeeded>1600</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>78.816</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>157.632</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000001E-1318874084</ListID>
+<FullName>Guan&#225;bana en mota</FullName>
+</ItemRef>
+<Desc>Guan&#225;bana en mota</Desc>
+<QuantityOnHand>153.70514</QuantityOnHand>
+<QuantityNeeded>39.408</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>1600</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>27.584</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>160</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>1600</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>1600</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2133-1517247855</TxnID>
+<TimeCreated>2018-01-29T11:44:15-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:44:15-06:00</TimeModified>
+<EditSequence>1517247855</EditSequence>
+<TxnNumber>426139</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000045-1320783003</ListID>
+<FullName>Helados Ideal:105</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-10</TxnDate>
+<RefNumber>LC105180110</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>2007</QuantityToBuild>
+<QuantityCanBuild>37070.82058</QuantityCanBuild>
+<QuantityOnHand>8897</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>20.95308</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>62.83917</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000023-1318880526</ListID>
+<FullName>Esencia de Vainilla</FullName>
+</ItemRef>
+<Desc>Esencia de Vainilla Francesa</Desc>
+<QuantityOnHand>6240.35925</QuantityOnHand>
+<QuantityNeeded>97.7409</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000030-1320695605</ListID>
+<FullName>Funda Chocolate Kids 60 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Chocolate  Kids 60 g</Desc>
+<QuantityOnHand>57469</QuantityOnHand>
+<QuantityNeeded>2007</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>69.80346</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>181.51308</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>2007</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000022-1318875671</ListID>
+<FullName>Polvo de Cacao</FullName>
+</ItemRef>
+<Desc>Polvo de cacao alcalino</Desc>
+<QuantityOnHand>222.84387</QuantityOnHand>
+<QuantityNeeded>4.87701</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>24.42519</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>200.7</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>2007</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>2007</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2141-1517247948</TxnID>
+<TimeCreated>2018-01-29T11:45:48-06:00</TimeCreated>
+<TimeModified>2018-01-29T11:45:48-06:00</TimeModified>
+<EditSequence>1517247948</EditSequence>
+<TxnNumber>426140</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000044-1320782789</ListID>
+<FullName>Helados S&#250;per:005</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-10</TxnDate>
+<RefNumber>LC005180110</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>1844</QuantityToBuild>
+<QuantityCanBuild>20218.33369</QuantityCanBuild>
+<QuantityOnHand>10866</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>35.27572</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>105.82716</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000023-1318880526</ListID>
+<FullName>Esencia de Vainilla</FullName>
+</ItemRef>
+<Desc>Esencia de Vainilla Francesa</Desc>
+<QuantityOnHand>6240.35925</QuantityOnHand>
+<QuantityNeeded>164.63232</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000028-1320694660</ListID>
+<FullName>Funda Chocolate Original</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso chocolate Original 110 g</Desc>
+<QuantityOnHand>94979</QuantityOnHand>
+<QuantityNeeded>1844</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>117.59188</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>305.75364</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>1844</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000022-1318875671</ListID>
+<FullName>Polvo de Cacao</FullName>
+</ItemRef>
+<Desc>Polvo de cacao alcalino</Desc>
+<QuantityOnHand>222.84387</QuantityOnHand>
+<QuantityNeeded>8.22424</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>41.15808</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>184.4</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>1844</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>1844</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2162-1517252670</TxnID>
+<TimeCreated>2018-01-29T13:04:30-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:04:30-06:00</TimeModified>
+<EditSequence>1517252670</EditSequence>
+<TxnNumber>426142</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>8000003F-1320778658</ListID>
+<FullName>Helados Ideal:102</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-10</TxnDate>
+<RefNumber>LC102180110</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>2683</QuantityToBuild>
+<QuantityCanBuild>17316.11674</QuantityCanBuild>
+<QuantityOnHand>7505</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>31.44476</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>76.84112</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>24.44213</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000002D-1320695404</ListID>
+<FullName>Funda Mora Kids 60 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Mora Kids 60 g</Desc>
+<QuantityOnHand>84521</QuantityOnHand>
+<QuantityNeeded>2683</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>69.83849</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>160.65804</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>2683</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000009-1317759803</ListID>
+<FullName>Pulpa de Mora</FullName>
+</ItemRef>
+<Desc>Pulpa de mora de castilla</Desc>
+<QuantityOnHand>231.93212</QuantityOnHand>
+<QuantityNeeded>34.93266</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000024-1318881127</ListID>
+<FullName>Rojo 40</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n de Colorante rojo 40 al 25 %</Desc>
+<QuantityOnHand>5298.10666</QuantityOnHand>
+<QuantityNeeded>83.81692</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>268.3</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>2683</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>2683</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2181-1517252783</TxnID>
+<TimeCreated>2018-01-29T13:06:23-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:06:23-06:00</TimeModified>
+<EditSequence>1517252783</EditSequence>
+<TxnNumber>426144</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>8000003E-1320778280</ListID>
+<FullName>Helados S&#250;per:002</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-10</TxnDate>
+<RefNumber>LC002180110</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>1450</QuantityToBuild>
+<QuantityCanBuild>9445.15458</QuantityCanBuild>
+<QuantityOnHand>10441</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>31.146</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>76.125</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000025-1320694230</ListID>
+<FullName>Funda Mora Original 110 g</FullName>
+</ItemRef>
+<Desc>Empaque  polipropileno biorientado impreso Mora Original 110 g
+</Desc>
+<QuantityOnHand>35768</QuantityOnHand>
+<QuantityNeeded>1450</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>69.2085</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>159.181</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000024-1318881127</ListID>
+<FullName>Rojo 40</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n de Colorante rojo 40 al 25 %</Desc>
+<QuantityOnHand>5298.10666</QuantityOnHand>
+<QuantityNeeded>83.056</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>1450</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>24.2295</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000009-1317759803</ListID>
+<FullName>Pulpa de Mora</FullName>
+</ItemRef>
+<Desc>Pulpa de mora de castilla</Desc>
+<QuantityOnHand>231.93212</QuantityOnHand>
+<QuantityNeeded>34.6115</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>145</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>1450</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>1450</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B238D-1517255942</TxnID>
+<TimeCreated>2018-01-29T13:59:02-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:59:02-06:00</TimeModified>
+<EditSequence>1517255942</EditSequence>
+<TxnNumber>426186</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000171-1454500726</ListID>
+<FullName>Helados Pack:201</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-10</TxnDate>
+<RefNumber>LC201180109</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>50</QuantityToBuild>
+<QuantityCanBuild>716.04999</QuantityCanBuild>
+<QuantityOnHand>147</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000164-1442509462</ListID>
+<FullName>Caja Pack x 4 Coco</FullName>
+</ItemRef>
+<Desc>Caja Pack X 4 Coqueiro Coco</Desc>
+<QuantityOnHand>7684</QuantityOnHand>
+<QuantityNeeded>500</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000016B-1446072787</ListID>
+<FullName>Caja Corriente</FullName>
+</ItemRef>
+<Desc>Caja Corriente 310x280x170</Desc>
+<QuantityOnHand>1848</QuantityOnHand>
+<QuantityNeeded>50</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000001-1316627288</ListID>
+<FullName>Helados S&#250;per:001</FullName>
+</ItemRef>
+<Desc>7862102271008 Coqueiro S&#250;per 110 g. Coco</Desc>
+<QuantityOnHand>59659</QuantityOnHand>
+<QuantityNeeded>2000</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A7-1517236636</ListID>
+<FullName>MOD1</FullName>
+</ItemRef>
+<Desc>Mano de Obra Pack</Desc>
+<QuantityNeeded>50</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2199-1517252911</TxnID>
+<TimeCreated>2018-01-29T13:08:31-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:08:31-06:00</TimeModified>
+<EditSequence>1517252911</EditSequence>
+<TxnNumber>426146</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000017-1317912731</ListID>
+<FullName>Helados Ideal:101</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-11</TxnDate>
+<RefNumber>LC101180111</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>5194</QuantityToBuild>
+<QuantityCanBuild>20042.03163</QuantityCanBuild>
+<QuantityOnHand>25305</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>51.21284</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>85.38936</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000B-1317760545</ListID>
+<FullName>Coco mediano</FullName>
+</ItemRef>
+<Desc>Coco criollo maduro mediano</Desc>
+<QuantityOnHand>324.96151</QuantityOnHand>
+<QuantityNeeded>42.69468</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>46.12272</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000015-1317763657</ListID>
+<FullName>Esencia de Coco</FullName>
+</ItemRef>
+<Desc>Esencia de coco</Desc>
+<QuantityOnHand>13173.21163</QuantityOnHand>
+<QuantityNeeded>256.16808</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000012A-1361978555</ListID>
+<FullName>Funda Coco Kids 60 g NUEVO</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Coco  Kids 60 g NUEVO</Desc>
+<QuantityOnHand>393394</QuantityOnHand>
+<QuantityNeeded>5194</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>170.77872</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>461.12332</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>5194</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>7.11578</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>519.4</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>5194</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>5194</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B21A8-1517253426</TxnID>
+<TimeCreated>2018-01-29T13:17:06-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:19:01-06:00</TimeModified>
+<EditSequence>1517253541</EditSequence>
+<TxnNumber>426147</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000001-1316627288</ListID>
+<FullName>Helados S&#250;per:001</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-11</TxnDate>
+<RefNumber>LC001180111</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>6887</QuantityToBuild>
+<QuantityCanBuild>10932.01725</QuantityCanBuild>
+<QuantityOnHand>35318</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>124.58583</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>207.57418</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>112.12036</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000015-1317763657</ListID>
+<FullName>Esencia de Coco</FullName>
+</ItemRef>
+<Desc>Esencia de coco</Desc>
+<QuantityOnHand>13173.21163</QuantityOnHand>
+<QuantityNeeded>622.79141</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000012-1317761640</ListID>
+<FullName>Funda Coco Original</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Coco Original 110 g</Desc>
+<QuantityOnHand>246544</QuantityOnHand>
+<QuantityNeeded>6887</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>415.14836</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>1120.99699</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>6887</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000B-1317760545</ListID>
+<FullName>Coco mediano</FullName>
+</ItemRef>
+<Desc>Coco criollo maduro mediano</Desc>
+<QuantityOnHand>324.96151</QuantityOnHand>
+<QuantityNeeded>103.78709</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>17.28637</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>688.7</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>6887</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>6887</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2381-1517255872</TxnID>
+<TimeCreated>2018-01-29T13:57:52-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:57:52-06:00</TimeModified>
+<EditSequence>1517255872</EditSequence>
+<TxnNumber>426184</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000190-1472745125</ListID>
+<FullName>Helados Pack:202</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-11</TxnDate>
+<RefNumber>LC202180110</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>28</QuantityToBuild>
+<QuantityCanBuild>232</QuantityCanBuild>
+<QuantityOnHand>72</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000018E-1469625392</ListID>
+<FullName>Caja Pack x 4 Mora</FullName>
+</ItemRef>
+<Desc>Caja Pack X 4 Coqueiro Mora</Desc>
+<QuantityOnHand>3659</QuantityOnHand>
+<QuantityNeeded>280</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000016B-1446072787</ListID>
+<FullName>Caja Corriente</FullName>
+</ItemRef>
+<Desc>Caja Corriente 310x280x170</Desc>
+<QuantityOnHand>1848</QuantityOnHand>
+<QuantityNeeded>28</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003E-1320778280</ListID>
+<FullName>Helados S&#250;per:002</FullName>
+</ItemRef>
+<Desc>7862102271107 Coqueiro S&#250;per 110 g. Mora</Desc>
+<QuantityOnHand>11450</QuantityOnHand>
+<QuantityNeeded>1120</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A7-1517236636</ListID>
+<FullName>MOD1</FullName>
+</ItemRef>
+<Desc>Mano de Obra Pack</Desc>
+<QuantityNeeded>28</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B21B7-1517253501</TxnID>
+<TimeCreated>2018-01-29T13:18:21-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:18:21-06:00</TimeModified>
+<EditSequence>1517253501</EditSequence>
+<TxnNumber>426148</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000001-1316627288</ListID>
+<FullName>Helados S&#250;per:001</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-12</TxnDate>
+<RefNumber>LC001180112</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>9755</QuantityToBuild>
+<QuantityCanBuild>1177.01725</QuantityCanBuild>
+<QuantityOnHand>43068</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>176.46795</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>294.0157</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>158.8114</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000015-1317763657</ListID>
+<FullName>Esencia de Coco</FullName>
+</ItemRef>
+<Desc>Esencia de coco</Desc>
+<QuantityOnHand>13173.21163</QuantityOnHand>
+<QuantityNeeded>882.14465</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000012-1317761640</ListID>
+<FullName>Funda Coco Original</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Coco Original 110 g</Desc>
+<QuantityOnHand>246544</QuantityOnHand>
+<QuantityNeeded>9755</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>588.0314</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>1587.82135</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>9755</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000B-1317760545</ListID>
+<FullName>Coco mediano</FullName>
+</ItemRef>
+<Desc>Coco criollo maduro mediano</Desc>
+<QuantityOnHand>324.96151</QuantityOnHand>
+<QuantityNeeded>147.00785</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>24.48505</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>975.5</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>9755</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>9755</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2393-1517255974</TxnID>
+<TimeCreated>2018-01-29T13:59:34-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:59:34-06:00</TimeModified>
+<EditSequence>1517255974</EditSequence>
+<TxnNumber>426187</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000171-1454500726</ListID>
+<FullName>Helados Pack:201</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-12</TxnDate>
+<RefNumber>LC201180112</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>50</QuantityToBuild>
+<QuantityCanBuild>818.39999</QuantityCanBuild>
+<QuantityOnHand>197</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000164-1442509462</ListID>
+<FullName>Caja Pack x 4 Coco</FullName>
+</ItemRef>
+<Desc>Caja Pack X 4 Coqueiro Coco</Desc>
+<QuantityOnHand>7684</QuantityOnHand>
+<QuantityNeeded>500</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000016B-1446072787</ListID>
+<FullName>Caja Corriente</FullName>
+</ItemRef>
+<Desc>Caja Corriente 310x280x170</Desc>
+<QuantityOnHand>1848</QuantityOnHand>
+<QuantityNeeded>50</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000001-1316627288</ListID>
+<FullName>Helados S&#250;per:001</FullName>
+</ItemRef>
+<Desc>7862102271008 Coqueiro S&#250;per 110 g. Coco</Desc>
+<QuantityOnHand>59659</QuantityOnHand>
+<QuantityNeeded>2000</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A7-1517236636</ListID>
+<FullName>MOD1</FullName>
+</ItemRef>
+<Desc>Mano de Obra Pack</Desc>
+<QuantityNeeded>50</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B21C6-1517254000</TxnID>
+<TimeCreated>2018-01-29T13:26:40-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:26:40-06:00</TimeModified>
+<EditSequence>1517254000</EditSequence>
+<TxnNumber>426149</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000043-1320782335</ListID>
+<FullName>Helados Ideal:104</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-15</TxnDate>
+<RefNumber>LC104180115</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>1988</QuantityToBuild>
+<QuantityCanBuild>23390.28571</QuantityCanBuild>
+<QuantityOnHand>5028</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>23.29936</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>56.9562</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000024-1318881127</ListID>
+<FullName>Rojo 40</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n de Colorante rojo 40 al 25 %</Desc>
+<QuantityOnHand>5298.10666</QuantityOnHand>
+<QuantityNeeded>2.5844</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>18.13056</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000034-1320695928</ListID>
+<FullName>Funda taxo 60 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Taxo Kids 60 g</Desc>
+<QuantityOnHand>63979</QuantityOnHand>
+<QuantityNeeded>1988</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>51.7874</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>119.10108</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>1988</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000020-1318874871</ListID>
+<FullName>Pulpa de Taxo</FullName>
+</ItemRef>
+<Desc>Pulpa de Taxo de Castilla</Desc>
+<QuantityOnHand>304.54152</QuantityOnHand>
+<QuantityNeeded>25.88376</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>5.1688</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>198.8</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>1988</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>1988</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B21D5-1517254044</TxnID>
+<TimeCreated>2018-01-29T13:27:24-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:27:24-06:00</TimeModified>
+<EditSequence>1517254044</EditSequence>
+<TxnNumber>426150</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000042-1320782182</ListID>
+<FullName>Helados S&#250;per:004</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-15</TxnDate>
+<RefNumber>LC004180115</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>1806</QuantityToBuild>
+<QuantityCanBuild>12752.99497</QuantityCanBuild>
+<QuantityOnHand>5614</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>38.81094</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>94.86918</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000024-1318881127</ListID>
+<FullName>Rojo 40</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n de Colorante rojo 40 al 25 %</Desc>
+<QuantityOnHand>5298.10666</QuantityOnHand>
+<QuantityNeeded>4.31634</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>30.17826</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000027-1320694585</ListID>
+<FullName>Funda Taxo Original</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Taxo Original 110 g
+</Desc>
+<QuantityOnHand>63772</QuantityOnHand>
+<QuantityNeeded>1806</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>86.2365</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>198.35298</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>1806</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000020-1318874871</ListID>
+<FullName>Pulpa de Taxo</FullName>
+</ItemRef>
+<Desc>Pulpa de Taxo de Castilla</Desc>
+<QuantityOnHand>304.54152</QuantityOnHand>
+<QuantityNeeded>43.12728</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>8.63268</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>180.6</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>1806</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>1806</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B21E4-1517254075</TxnID>
+<TimeCreated>2018-01-29T13:27:55-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:27:55-06:00</TimeModified>
+<EditSequence>1517254075</EditSequence>
+<TxnNumber>426151</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000116-1327337584</ListID>
+<FullName>MINI COQUEIROS:MC004</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-15</TxnDate>
+<RefNumber>MC004180115</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>444</QuantityToBuild>
+<QuantityCanBuild>93417.64417</QuantityCanBuild>
+<QuantityOnHand>1009</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>1.30092</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>3.17904</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000024-1318881127</ListID>
+<FullName>Rojo 40</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n de Colorante rojo 40 al 25 %</Desc>
+<QuantityOnHand>5298.10666</QuantityOnHand>
+<QuantityNeeded>0.14652</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>1.01232</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000014-1317762623</ListID>
+<FullName>Funda Minicoqueiro</FullName>
+</ItemRef>
+<Desc>Funda minicoqueiro</Desc>
+<QuantityOnHand>177327</QuantityOnHand>
+<QuantityNeeded>444</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>2.89044</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>6.65112</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000176-1457387021</ListID>
+<FullName>Paleta corta mini</FullName>
+</ItemRef>
+<Desc>Paleta corta mini de 63mm</Desc>
+<QuantityOnHand>128127</QuantityOnHand>
+<QuantityNeeded>444</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000020-1318874871</ListID>
+<FullName>Pulpa de Taxo</FullName>
+</ItemRef>
+<Desc>Pulpa de Taxo de Castilla</Desc>
+<QuantityOnHand>304.54152</QuantityOnHand>
+<QuantityNeeded>1.44744</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>0.2886</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2202-1517254198</TxnID>
+<TimeCreated>2018-01-29T13:29:58-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:29:58-06:00</TimeModified>
+<EditSequence>1517254198</EditSequence>
+<TxnNumber>426154</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>8000011B-1327338457</ListID>
+<FullName>MINI COQUEIROS:MC009</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-16</TxnDate>
+<RefNumber>MC009180116</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>510</QuantityToBuild>
+<QuantityCanBuild>65223.86029</QuantityCanBuild>
+<QuantityOnHand>791</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>1.1271</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>4.0596</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>0.3162</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>1.581</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000014-1317762623</ListID>
+<FullName>Funda Minicoqueiro</FullName>
+</ItemRef>
+<Desc>Funda minicoqueiro</Desc>
+<QuantityOnHand>177327</QuantityOnHand>
+<QuantityNeeded>510</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>4.5135</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>12.1839</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000176-1457387021</ListID>
+<FullName>Paleta corta mini</FullName>
+</ItemRef>
+<Desc>Paleta corta mini de 63mm</Desc>
+<QuantityOnHand>128127</QuantityOnHand>
+<QuantityNeeded>510</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000001F-1318874487</ListID>
+<FullName>Esencia de Ron</FullName>
+</ItemRef>
+<Desc>Esencia de Ron 50.252</Desc>
+<QuantityOnHand>1579.79782</QuantityOnHand>
+<QuantityNeeded>6.7677</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>1.8054</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000021-1318875343</ListID>
+<FullName>Licor Ron</FullName>
+</ItemRef>
+<Desc>Licor Ron</Desc>
+<QuantityOnHand>11540.70984</QuantityOnHand>
+<QuantityNeeded>90.2394</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B220F-1517254242</TxnID>
+<TimeCreated>2018-01-29T13:30:42-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:30:42-06:00</TimeModified>
+<EditSequence>1517254242</EditSequence>
+<TxnNumber>426155</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>8000004E-1320855643</ListID>
+<FullName>Helados Ideal:109</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-16</TxnDate>
+<RefNumber>LC109180116</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>1326</QuantityToBuild>
+<QuantityCanBuild>16305.96507</QuantityCanBuild>
+<QuantityOnHand>4190</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>11.7351</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>42.2331</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>3.28848</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>16.42914</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000002F-1320695538</ListID>
+<FullName>Funda Ron Pasas  Kids 60g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Ron Pasas Kids 60 g</Desc>
+<QuantityOnHand>70878</QuantityOnHand>
+<QuantityNeeded>1326</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>46.92714</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>126.6993</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>1326</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000001F-1318874487</ListID>
+<FullName>Esencia de Ron</FullName>
+</ItemRef>
+<Desc>Esencia de Ron 50.252</Desc>
+<QuantityOnHand>1579.79782</QuantityOnHand>
+<QuantityNeeded>70.38408</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>18.77616</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000021-1318875343</ListID>
+<FullName>Licor Ron</FullName>
+</ItemRef>
+<Desc>Licor Ron</Desc>
+<QuantityOnHand>11540.70984</QuantityOnHand>
+<QuantityNeeded>938.48976</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>132.6</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>1326</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>1326</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2231-1517254305</TxnID>
+<TimeCreated>2018-01-29T13:31:45-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:31:45-06:00</TimeModified>
+<EditSequence>1517254305</EditSequence>
+<TxnNumber>426158</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>8000004D-1320855489</ListID>
+<FullName>Helados S&#250;per:009</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-16</TxnDate>
+<RefNumber>LC009180116</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>2220</QuantityToBuild>
+<QuantityCanBuild>8894.23131</QuantityCanBuild>
+<QuantityOnHand>5288</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>36.0084</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>129.6258</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>10.0788</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>50.4162</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000002C-1320695274</ListID>
+<FullName>Funda Ron Pasas Original 110 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Ron Pasas Original 110 g</Desc>
+<QuantityOnHand>76313</QuantityOnHand>
+<QuantityNeeded>2220</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>144.0336</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>388.8774</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>2220</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000001F-1318874487</ListID>
+<FullName>Esencia de Ron</FullName>
+</ItemRef>
+<Desc>Esencia de Ron 50.252</Desc>
+<QuantityOnHand>1579.79782</QuantityOnHand>
+<QuantityNeeded>216.0504</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>57.609</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000021-1318875343</ListID>
+<FullName>Licor Ron</FullName>
+</ItemRef>
+<Desc>Licor Ron</Desc>
+<QuantityOnHand>11540.70984</QuantityOnHand>
+<QuantityNeeded>2880.561</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>222</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>2220</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>2220</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2258-1517254338</TxnID>
+<TimeCreated>2018-01-29T13:32:18-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:32:18-06:00</TimeModified>
+<EditSequence>1517254338</EditSequence>
+<TxnNumber>426160</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000114-1327337225</ListID>
+<FullName>MINI COQUEIROS:MC002</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-16</TxnDate>
+<RefNumber>MC002180116</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>450</QuantityToBuild>
+<QuantityCanBuild>25209.88307</QuantityCanBuild>
+<QuantityOnHand>970</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>1.3185</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>3.222</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000014-1317762623</ListID>
+<FullName>Funda Minicoqueiro</FullName>
+</ItemRef>
+<Desc>Funda minicoqueiro</Desc>
+<QuantityOnHand>177327</QuantityOnHand>
+<QuantityNeeded>450</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>2.9295</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>6.7365</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000024-1318881127</ListID>
+<FullName>Rojo 40</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n de Colorante rojo 40 al 25 %</Desc>
+<QuantityOnHand>5298.10666</QuantityOnHand>
+<QuantityNeeded>3.5145</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000176-1457387021</ListID>
+<FullName>Paleta corta mini</FullName>
+</ItemRef>
+<Desc>Paleta corta mini de 63mm</Desc>
+<QuantityOnHand>128127</QuantityOnHand>
+<QuantityNeeded>450</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>1.026</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000009-1317759803</ListID>
+<FullName>Pulpa de Mora</FullName>
+</ItemRef>
+<Desc>Pulpa de mora de castilla</Desc>
+<QuantityOnHand>231.93212</QuantityOnHand>
+<QuantityNeeded>1.4625</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2263-1517254377</TxnID>
+<TimeCreated>2018-01-29T13:32:57-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:32:57-06:00</TimeModified>
+<EditSequence>1517254377</EditSequence>
+<TxnNumber>426161</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>8000003F-1320778658</ListID>
+<FullName>Helados Ideal:102</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-16</TxnDate>
+<RefNumber>LC102180116</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>2672</QuantityToBuild>
+<QuantityCanBuild>6292.78955</QuantityCanBuild>
+<QuantityOnHand>10123</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>31.31584</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>76.52608</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>24.34192</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000002D-1320695404</ListID>
+<FullName>Funda Mora Kids 60 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Mora Kids 60 g</Desc>
+<QuantityOnHand>84521</QuantityOnHand>
+<QuantityNeeded>2672</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>69.55216</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>159.99936</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>2672</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000009-1317759803</ListID>
+<FullName>Pulpa de Mora</FullName>
+</ItemRef>
+<Desc>Pulpa de mora de castilla</Desc>
+<QuantityOnHand>231.93212</QuantityOnHand>
+<QuantityNeeded>34.78944</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000024-1318881127</ListID>
+<FullName>Rojo 40</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n de Colorante rojo 40 al 25 %</Desc>
+<QuantityOnHand>5298.10666</QuantityOnHand>
+<QuantityNeeded>83.47328</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>267.2</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>2672</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>2672</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2290-1517254426</TxnID>
+<TimeCreated>2018-01-29T13:33:46-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:33:46-06:00</TimeModified>
+<EditSequence>1517254426</EditSequence>
+<TxnNumber>426164</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>8000003E-1320778280</ListID>
+<FullName>Helados S&#250;per:002</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-16</TxnDate>
+<RefNumber>LC002180116</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>4494</QuantityToBuild>
+<QuantityCanBuild>3432.43066</QuantityCanBuild>
+<QuantityOnHand>12565</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>96.53112</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>235.935</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000025-1320694230</ListID>
+<FullName>Funda Mora Original 110 g</FullName>
+</ItemRef>
+<Desc>Empaque  polipropileno biorientado impreso Mora Original 110 g
+</Desc>
+<QuantityOnHand>35768</QuantityOnHand>
+<QuantityNeeded>4494</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>214.49862</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>493.35132</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000024-1318881127</ListID>
+<FullName>Rojo 40</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n de Colorante rojo 40 al 25 %</Desc>
+<QuantityOnHand>5298.10666</QuantityOnHand>
+<QuantityNeeded>257.41632</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>4494</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>75.09474</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000009-1317759803</ListID>
+<FullName>Pulpa de Mora</FullName>
+</ItemRef>
+<Desc>Pulpa de mora de castilla</Desc>
+<QuantityOnHand>231.93212</QuantityOnHand>
+<QuantityNeeded>107.27178</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>449.4</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>4494</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>4494</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2387-1517255904</TxnID>
+<TimeCreated>2018-01-29T13:58:24-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:58:24-06:00</TimeModified>
+<EditSequence>1517255904</EditSequence>
+<TxnNumber>426185</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000190-1472745125</ListID>
+<FullName>Helados Pack:202</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-16</TxnDate>
+<RefNumber>LC202180116</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>30</QuantityToBuild>
+<QuantityCanBuild>314.125</QuantityCanBuild>
+<QuantityOnHand>102</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000018E-1469625392</ListID>
+<FullName>Caja Pack x 4 Mora</FullName>
+</ItemRef>
+<Desc>Caja Pack X 4 Coqueiro Mora</Desc>
+<QuantityOnHand>3659</QuantityOnHand>
+<QuantityNeeded>300</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000016B-1446072787</ListID>
+<FullName>Caja Corriente</FullName>
+</ItemRef>
+<Desc>Caja Corriente 310x280x170</Desc>
+<QuantityOnHand>1848</QuantityOnHand>
+<QuantityNeeded>30</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003E-1320778280</ListID>
+<FullName>Helados S&#250;per:002</FullName>
+</ItemRef>
+<Desc>7862102271107 Coqueiro S&#250;per 110 g. Mora</Desc>
+<QuantityOnHand>11450</QuantityOnHand>
+<QuantityNeeded>1200</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A7-1517236636</ListID>
+<FullName>MOD1</FullName>
+</ItemRef>
+<Desc>Mano de Obra Pack</Desc>
+<QuantityNeeded>30</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B22E5-1517254961</TxnID>
+<TimeCreated>2018-01-29T13:42:41-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:42:41-06:00</TimeModified>
+<EditSequence>1517254961</EditSequence>
+<TxnNumber>426171</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000017-1317912731</ListID>
+<FullName>Helados Ideal:101</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-17</TxnDate>
+<RefNumber>LC101180117</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>6664</QuantityToBuild>
+<QuantityCanBuild>16314.50486</QuantityCanBuild>
+<QuantityOnHand>31904</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>65.70704</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>109.55616</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000B-1317760545</ListID>
+<FullName>Coco mediano</FullName>
+</ItemRef>
+<Desc>Coco criollo maduro mediano</Desc>
+<QuantityOnHand>324.96151</QuantityOnHand>
+<QuantityNeeded>54.77808</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>59.17632</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000015-1317763657</ListID>
+<FullName>Esencia de Coco</FullName>
+</ItemRef>
+<Desc>Esencia de coco</Desc>
+<QuantityOnHand>13173.21163</QuantityOnHand>
+<QuantityNeeded>328.66848</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000012A-1361978555</ListID>
+<FullName>Funda Coco Kids 60 g NUEVO</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Coco  Kids 60 g NUEVO</Desc>
+<QuantityOnHand>393394</QuantityOnHand>
+<QuantityNeeded>6664</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>219.11232</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>591.62992</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>6664</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>9.12968</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>666.4</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>6664</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>6664</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B22F4-1517254993</TxnID>
+<TimeCreated>2018-01-29T13:43:13-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:43:13-06:00</TimeModified>
+<EditSequence>1517254993</EditSequence>
+<TxnNumber>426172</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000001-1316627288</ListID>
+<FullName>Helados S&#250;per:001</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-17</TxnDate>
+<RefNumber>LC001180117</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>6062</QuantityToBuild>
+<QuantityCanBuild>8898.82083</QuantityCanBuild>
+<QuantityOnHand>49068</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>109.66158</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>182.70868</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>98.68936</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000015-1317763657</ListID>
+<FullName>Esencia de Coco</FullName>
+</ItemRef>
+<Desc>Esencia de coco</Desc>
+<QuantityOnHand>13173.21163</QuantityOnHand>
+<QuantityNeeded>548.18666</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000012-1317761640</ListID>
+<FullName>Funda Coco Original</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Coco Original 110 g</Desc>
+<QuantityOnHand>246544</QuantityOnHand>
+<QuantityNeeded>6062</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>365.41736</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>986.71174</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>6062</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000B-1317760545</ListID>
+<FullName>Coco mediano</FullName>
+</ItemRef>
+<Desc>Coco criollo maduro mediano</Desc>
+<QuantityOnHand>324.96151</QuantityOnHand>
+<QuantityNeeded>91.35434</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>15.21562</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>606.2</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>6062</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>6062</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2303-1517255051</TxnID>
+<TimeCreated>2018-01-29T13:44:11-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:44:11-06:00</TimeModified>
+<EditSequence>1517255051</EditSequence>
+<TxnNumber>426173</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000049-1320853684</ListID>
+<FullName>Helados Ideal:107</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-17</TxnDate>
+<RefNumber>LC107180118</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>1406</QuantityToBuild>
+<QuantityCanBuild>37668.57301</QuantityCanBuild>
+<QuantityOnHand>4750</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>15.70502</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>45.58252</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000023-1318880526</ListID>
+<FullName>Esencia de Vainilla</FullName>
+</ItemRef>
+<Desc>Esencia de Vainilla Francesa</Desc>
+<QuantityOnHand>6240.35925</QuantityOnHand>
+<QuantityNeeded>101.28824</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000032-1320695730</ListID>
+<FullName>Funda Vainilla Kids 60 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Vainilla  Kids 60 g</Desc>
+<QuantityOnHand>65345</QuantityOnHand>
+<QuantityNeeded>1406</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>50.64412</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>131.6719</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>1406</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>10.1232</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>17.72966</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>140.6</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>1406</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>1406</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2311-1517255082</TxnID>
+<TimeCreated>2018-01-29T13:44:42-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:44:42-06:00</TimeModified>
+<EditSequence>1517255082</EditSequence>
+<TxnNumber>426174</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000048-1320853335</ListID>
+<FullName>Helados S&#250;per:007</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-18</TxnDate>
+<RefNumber>LC007180118</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>2083</QuantityToBuild>
+<QuantityCanBuild>11652.87916</QuantityCanBuild>
+<QuantityOnHand>5253</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>42.63901</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>123.79269</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000023-1318880526</ListID>
+<FullName>Esencia de Vainilla</FullName>
+</ItemRef>
+<Desc>Esencia de Vainilla Francesa</Desc>
+<QuantityOnHand>6240.35925</QuantityOnHand>
+<QuantityNeeded>275.12264</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000002A-1320695126</ListID>
+<FullName>Funda Vainilla Original 110 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Vainilla Original 110 g</Desc>
+<QuantityOnHand>75071</QuantityOnHand>
+<QuantityNeeded>2083</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>137.56132</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>357.6511</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>2083</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>27.51643</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>48.13813</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>208.3</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>2083</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>2083</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B231F-1517255429</TxnID>
+<TimeCreated>2018-01-29T13:50:29-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:50:29-06:00</TimeModified>
+<EditSequence>1517255429</EditSequence>
+<TxnNumber>426175</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000001-1316627288</ListID>
+<FullName>Helados S&#250;per:001</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-18</TxnDate>
+<RefNumber>LC001180118</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>7393</QuantityToBuild>
+<QuantityCanBuild>11459.37093</QuantityCanBuild>
+<QuantityOnHand>53934</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>133.73937</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>222.82502</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>120.35804</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000015-1317763657</ListID>
+<FullName>Esencia de Coco</FullName>
+</ItemRef>
+<Desc>Esencia de coco</Desc>
+<QuantityOnHand>13173.21163</QuantityOnHand>
+<QuantityNeeded>668.54899</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000012-1317761640</ListID>
+<FullName>Funda Coco Original</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Coco Original 110 g</Desc>
+<QuantityOnHand>246544</QuantityOnHand>
+<QuantityNeeded>7393</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>445.65004</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>1203.35861</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>7393</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000B-1317760545</ListID>
+<FullName>Coco mediano</FullName>
+</ItemRef>
+<Desc>Coco criollo maduro mediano</Desc>
+<QuantityOnHand>324.96151</QuantityOnHand>
+<QuantityNeeded>111.41251</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>18.55643</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>739.3</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>7393</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>7393</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2348-1517255580</TxnID>
+<TimeCreated>2018-01-29T13:53:00-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:53:00-06:00</TimeModified>
+<EditSequence>1517255580</EditSequence>
+<TxnNumber>426178</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000119-1327337913</ListID>
+<FullName>MINI COQUEIROS:MC007</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-18</TxnDate>
+<RefNumber>MC007180118</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>450</QuantityToBuild>
+<QuantityCanBuild>85411.33629</QuantityCanBuild>
+<QuantityOnHand>989</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>1.2555</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>3.645</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000023-1318880526</ListID>
+<FullName>Esencia de Vainilla</FullName>
+</ItemRef>
+<Desc>Esencia de Vainilla Francesa</Desc>
+<QuantityOnHand>6240.35925</QuantityOnHand>
+<QuantityNeeded>8.1045</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000014-1317762623</ListID>
+<FullName>Funda Minicoqueiro</FullName>
+</ItemRef>
+<Desc>Funda minicoqueiro</Desc>
+<QuantityOnHand>177327</QuantityOnHand>
+<QuantityNeeded>450</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>4.0545</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>10.5345</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000176-1457387021</ListID>
+<FullName>Paleta corta mini</FullName>
+</ItemRef>
+<Desc>Paleta corta mini de 63mm</Desc>
+<QuantityOnHand>128127</QuantityOnHand>
+<QuantityNeeded>450</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>0.81</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>1.4175</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2399-1517256001</TxnID>
+<TimeCreated>2018-01-29T14:00:01-06:00</TimeCreated>
+<TimeModified>2018-01-29T14:00:01-06:00</TimeModified>
+<EditSequence>1517256001</EditSequence>
+<TxnNumber>426188</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000171-1454500726</ListID>
+<FullName>Helados Pack:201</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-18</TxnDate>
+<RefNumber>LC201180118</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>50</QuantityToBuild>
+<QuantityCanBuild>768.39999</QuantityCanBuild>
+<QuantityOnHand>240</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000164-1442509462</ListID>
+<FullName>Caja Pack x 4 Coco</FullName>
+</ItemRef>
+<Desc>Caja Pack X 4 Coqueiro Coco</Desc>
+<QuantityOnHand>7684</QuantityOnHand>
+<QuantityNeeded>500</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000016B-1446072787</ListID>
+<FullName>Caja Corriente</FullName>
+</ItemRef>
+<Desc>Caja Corriente 310x280x170</Desc>
+<QuantityOnHand>1848</QuantityOnHand>
+<QuantityNeeded>50</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000001-1316627288</ListID>
+<FullName>Helados S&#250;per:001</FullName>
+</ItemRef>
+<Desc>7862102271008 Coqueiro S&#250;per 110 g. Coco</Desc>
+<QuantityOnHand>59659</QuantityOnHand>
+<QuantityNeeded>2000</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A7-1517236636</ListID>
+<FullName>MOD1</FullName>
+</ItemRef>
+<Desc>Mano de Obra Pack</Desc>
+<QuantityNeeded>50</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2353-1517255636</TxnID>
+<TimeCreated>2018-01-29T13:53:56-06:00</TimeCreated>
+<TimeModified>2018-01-29T13:53:56-06:00</TimeModified>
+<EditSequence>1517255636</EditSequence>
+<TxnNumber>426179</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000001-1316627288</ListID>
+<FullName>Helados S&#250;per:001</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-19</TxnDate>
+<RefNumber>LC001180119</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>9803</QuantityToBuild>
+<QuantityCanBuild>1656.37093</QuantityCanBuild>
+<QuantityOnHand>63727</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>177.33627</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>295.46242</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>159.59284</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000015-1317763657</ListID>
+<FullName>Esencia de Coco</FullName>
+</ItemRef>
+<Desc>Esencia de coco</Desc>
+<QuantityOnHand>13173.21163</QuantityOnHand>
+<QuantityNeeded>886.48529</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000012-1317761640</ListID>
+<FullName>Funda Coco Original</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Coco Original 110 g</Desc>
+<QuantityOnHand>246544</QuantityOnHand>
+<QuantityNeeded>9803</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>590.92484</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>1595.63431</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>9803</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000B-1317760545</ListID>
+<FullName>Coco mediano</FullName>
+</ItemRef>
+<Desc>Coco criollo maduro mediano</Desc>
+<QuantityOnHand>324.96151</QuantityOnHand>
+<QuantityNeeded>147.73121</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000E-1317760889</ListID>
+<FullName>Pasas</FullName>
+</ItemRef>
+<Desc>Pasas</Desc>
+<QuantityOnHand>61.32301</QuantityOnHand>
+<QuantityNeeded>24.60553</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>980.3</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>9803</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>9803</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B23F0-1517257246</TxnID>
+<TimeCreated>2018-01-29T14:20:46-06:00</TimeCreated>
+<TimeModified>2018-01-29T14:20:46-06:00</TimeModified>
+<EditSequence>1517257246</EditSequence>
+<TxnNumber>426197</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000041-1320781434</ListID>
+<FullName>Helados Ideal:103</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-22</TxnDate>
+<RefNumber>LC103180122</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>1324</QuantityToBuild>
+<QuantityCanBuild>10355.52227</QuantityCanBuild>
+<QuantityOnHand>3142</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>15.51728</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>37.9326</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003D-1320699232</ListID>
+<FullName>Colorante verde esmeralda</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n Verde Esmeraldas al 10%</Desc>
+<QuantityOnHand>12034.56911</QuantityOnHand>
+<QuantityNeeded>1.7212</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>12.06164</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000002E-1320695465</ListID>
+<FullName>Funda Naranjilla Kids 60 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Naranjilla  Kids 60 g</Desc>
+<QuantityOnHand>97594</QuantityOnHand>
+<QuantityNeeded>1324</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>34.47696</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>79.3076</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000011-1317761303</ListID>
+<FullName>Paletas con logotipo</FullName>
+</ItemRef>
+<Desc>Paletas 401 con logotipo</Desc>
+<QuantityOnHand>417517</QuantityOnHand>
+<QuantityNeeded>1324</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000A-1317760234</ListID>
+<FullName>Pulpa de Naranjilla</FullName>
+</ItemRef>
+<Desc>Pulpa de naranjilla de jugo</Desc>
+<QuantityOnHand>134.8289</QuantityOnHand>
+<QuantityNeeded>17.23848</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>15.86152</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>132.4</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>1324</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>1324</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2408-1517257285</TxnID>
+<TimeCreated>2018-01-29T14:21:25-06:00</TimeCreated>
+<TimeModified>2018-01-29T14:21:25-06:00</TimeModified>
+<EditSequence>1517257285</EditSequence>
+<TxnNumber>426199</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000040-1320781116</ListID>
+<FullName>Helados S&#250;per:003</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-22</TxnDate>
+<RefNumber>LC003180122</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>2172</QuantityToBuild>
+<QuantityCanBuild>5648.46669</QuantityCanBuild>
+<QuantityOnHand>6934</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>46.67628</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>114.07344</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003D-1320699232</ListID>
+<FullName>Colorante verde esmeralda</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n Verde Esmeraldas al 10%</Desc>
+<QuantityOnHand>12034.56911</QuantityOnHand>
+<QuantityNeeded>5.19108</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>36.29412</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000026-1320694310</ListID>
+<FullName>Funda Naranjilla Original 110 g</FullName>
+</ItemRef>
+<Desc>Empaque polipropileno biorientado impreso Naranjilla Original 110 g</Desc>
+<QuantityOnHand>19493</QuantityOnHand>
+<QuantityNeeded>2172</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>103.69128</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>238.50732</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000177-1457387726</ListID>
+<FullName>Paleta corbatin super</FullName>
+</ItemRef>
+<Desc>Paleta corbatin super</Desc>
+<QuantityOnHand>339094</QuantityOnHand>
+<QuantityNeeded>2172</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000A-1317760234</ListID>
+<FullName>Pulpa de Naranjilla</FullName>
+</ItemRef>
+<Desc>Pulpa de naranjilla de jugo</Desc>
+<QuantityOnHand>134.8289</QuantityOnHand>
+<QuantityNeeded>51.84564</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>47.69712</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000127-1358444076</ListID>
+<FullName>FUNDA EMPAQUE SECUNDARIO</FullName>
+</ItemRef>
+<Desc>Funda transparente perforada, empaque 10 Helados</Desc>
+<QuantityOnHand>38961.1</QuantityOnHand>
+<QuantityNeeded>217.2</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A1-1516819467</ListID>
+<FullName>MOD</FullName>
+</ItemRef>
+<Desc>Sueldos y Salarios</Desc>
+<QuantityNeeded>2172</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>800001A2-1516819868</ListID>
+<FullName>CIF</FullName>
+</ItemRef>
+<Desc>Costos Indirectos Fabricaci&#243;n</Desc>
+<QuantityNeeded>2172</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+<BuildAssemblyRet>
+<TxnID>6B2417-1517257331</TxnID>
+<TimeCreated>2018-01-29T14:22:11-06:00</TimeCreated>
+<TimeModified>2018-01-29T14:22:11-06:00</TimeModified>
+<EditSequence>1517257331</EditSequence>
+<TxnNumber>426200</TxnNumber>
+<ItemInventoryAssemblyRef>
+<ListID>80000115-1327337373</ListID>
+<FullName>MINI COQUEIROS:MC003</FullName>
+</ItemInventoryAssemblyRef>
+<TxnDate>2018-01-22</TxnDate>
+<RefNumber>MC003180122</RefNumber>
+<IsPending>false</IsPending>
+<QuantityToBuild>450</QuantityToBuild>
+<QuantityCanBuild>41358.55828</QuantityCanBuild>
+<QuantityOnHand>972</QuantityOnHand>
+<QuantityOnSalesOrder>0</QuantityOnSalesOrder>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000008-1317759608</ListID>
+<FullName>Az&#250;car</FullName>
+</ItemRef>
+<Desc>Az&#250;car Blanca Refinada</Desc>
+<QuantityOnHand>5927.7652</QuantityOnHand>
+<QuantityNeeded>1.3185</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000010-1317761137</ListID>
+<FullName>Benzoato de sodio</FullName>
+</ItemRef>
+<Desc>Benzoato de sodio</Desc>
+<QuantityOnHand>26401.56214</QuantityOnHand>
+<QuantityNeeded>3.222</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003D-1320699232</ListID>
+<FullName>Colorante verde esmeralda</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n Verde Esmeraldas al 10%</Desc>
+<QuantityOnHand>12034.56911</QuantityOnHand>
+<QuantityNeeded>0.1485</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000124-1334768785</ListID>
+<FullName>DUP Crema 35% grasa</FullName>
+</ItemRef>
+<Desc>Crema de leche pasteurizada 35% de grasa</Desc>
+<QuantityOnHand>1181.32969</QuantityOnHand>
+<QuantityNeeded>1.026</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000014-1317762623</ListID>
+<FullName>Funda Minicoqueiro</FullName>
+</ItemRef>
+<Desc>Funda minicoqueiro</Desc>
+<QuantityOnHand>177327</QuantityOnHand>
+<QuantityNeeded>450</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000002-1316712386</ListID>
+<FullName>Leche</FullName>
+</ItemRef>
+<Desc>Leche entera pasteurizada</Desc>
+<QuantityOnHand>3277.53356</QuantityOnHand>
+<QuantityNeeded>2.9295</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000F-1317761059</ListID>
+<FullName>Obsicream ES</FullName>
+</ItemRef>
+<Desc>Estabilizante Emulsificante para leche</Desc>
+<QuantityOnHand>20328.4168</QuantityOnHand>
+<QuantityNeeded>6.7365</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>80000176-1457387021</ListID>
+<FullName>Paleta corta mini</FullName>
+</ItemRef>
+<Desc>Paleta corta mini de 63mm</Desc>
+<QuantityOnHand>128127</QuantityOnHand>
+<QuantityNeeded>450</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000000A-1317760234</ListID>
+<FullName>Pulpa de Naranjilla</FullName>
+</ItemRef>
+<Desc>Pulpa de naranjilla de jugo</Desc>
+<QuantityOnHand>134.8289</QuantityOnHand>
+<QuantityNeeded>1.467</QuantityNeeded>
+</ComponentItemLineRet>
+<ComponentItemLineRet>
+<ItemRef>
+<ListID>8000003C-1320698319</ListID>
+<FullName>Soluci&#243;n Amarillo Huevo</FullName>
+</ItemRef>
+<Desc>Soluci&#243;n 25 % amarillo huevo</Desc>
+<QuantityOnHand>4266.82073</QuantityOnHand>
+<QuantityNeeded>1.3455</QuantityNeeded>
+</ComponentItemLineRet>
+</BuildAssemblyRet>
+</BuildAssemblyQueryRs>
+</QBXMLMsgsRs>
+</QBXML>

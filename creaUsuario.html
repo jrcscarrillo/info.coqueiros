@@ -1,0 +1,87 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <title>Usuario para WC</title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+        <link rel="stylesheet" href="css/demo.css">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/sky-forms.css">
+        <link rel="stylesheet" href="css/sky-forms-orange.css">
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+        <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.12.0/jquery.validate.js"></script>
+        <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.12.0/additional-methods.js"></script>
+    </head>
+
+    <body class="bg-black">
+        <div class="body body-s">		
+            <form action="./docs/web_connector/creaUsuario.php" id="sky-form" class="sky-form" method="POST">
+                <header>Ingresa Usuario</header>
+
+                <fieldset>
+                    <label class="label">Ingrese ID y clave</label>	
+                    <div class="row">	
+                        <section class="col col-12">
+                            <label class="label">ID Usuario</label>
+                            <label class="input">
+                                <i class="icon-append fa fa-user"></i>
+                                <input type="text" name="idForm" id="idForm" placeholder="ID del usuario">
+                            </label>
+                        </section>
+                    </div>					
+                    <div class="row">	
+                        <section class="col col-12">
+                            <label class="label">Clave usuario</label>
+                            <label class="input">
+                                <i class="icon-append fa fa-key"></i>
+                                <input type="text" name="claveForm" id="claveForm" placeholder="Clave de acceso del Usuario">
+                            </label>
+                        </section>
+                    </div>
+                </fieldset>
+					
+                <footer>
+                    <label class="label">Tenga en consideracion que al usuario registrado se le podra crear aplicaciones para que ejecute en un webconnector (conexion entre QB y WebSite)</label>
+                    <button type="submit" class="button">Procesar</button>
+                    <button type="button" class="button button-secondary" onclick="window.history.back();">Regresar</button>
+                </footer>
+            </form>			
+        </div>
+        <script type="text/javascript">
+            $(function () {
+                $("#sky-form").validate({
+                    rules: {
+                        idForm: {
+                            minlength: 5,
+                            maxlength: 12,
+                            required: true
+                        },
+                        claveForm: {
+                            minlength: 6,
+                            maxlength: 12,
+                            required: true
+                        }
+                    },
+                    messages: {
+                        idForm: {
+                            required: 'Ingrese la ID del usuario',
+                            minlength: "Minimo de 6 digitos",
+                            maxlength: "Maximo de 12 digitos",
+                        },
+                        claveForm: {
+                            required: 'Ingrese una clave de acceso',
+                            minlength: "Minimo de 6 digitos",
+                            maxlength: "Maximo de 12 digitos",
+                        }
+                    },
+                    errorPlacement: function (error, element) {
+                        error.insertAfter(element.parent());
+                    }
+                });
+            });
+        </script>
+    </body>
+</html>

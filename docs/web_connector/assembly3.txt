@@ -1,0 +1,96 @@
+Iniciando el proceso de respuesta del SOAP Produccion false RefNumber 20180103/FQProduccion false RefNumber LC101180104Produccion nuevaERR 
+Produccion false RefNumber LC001180104Produccion nuevaERR 
+Produccion false RefNumber LC108180105Produccion nuevaERR 
+Produccion false RefNumber LC001180105Produccion nuevaERR 
+Produccion false RefNumber LC105180105Produccion nuevaERR 
+Produccion false RefNumber LC005180105Produccion nuevaERR 
+Produccion false RefNumber MC005180105Produccion nuevaERR 
+Produccion false RefNumber LC008180105Produccion nuevaERR 
+Produccion false RefNumber MC008180105Produccion nuevaERR 
+Produccion false RefNumber LC003180108Produccion nuevaERR 
+Produccion false RefNumber MC003180108Produccion nuevaERR 
+Produccion false RefNumber LC103180108Produccion nuevaERR 
+Produccion false RefNumber LC101180109Produccion nuevaERR 
+Produccion false RefNumber LC001180109Produccion nuevaERR 
+Produccion false RefNumber LC106180110Produccion nuevaERR 
+Produccion false RefNumber LC006180110Produccion nuevaERR 
+Produccion false RefNumber LC105180110Produccion nuevaERR 
+Produccion false RefNumber LC005180110Produccion nuevaERR 
+Produccion false RefNumber LC102180110Produccion nuevaERR 
+Produccion false RefNumber LC002180110Produccion nuevaERR 
+Produccion false RefNumber LC201180109Produccion nuevaERR 
+Produccion false RefNumber LC101180111Produccion nuevaERR 
+Produccion false RefNumber LC001180111Produccion nuevaERR 
+Produccion false RefNumber LC202180110Produccion nuevaERR 
+Produccion false RefNumber LC001180112Produccion nuevaERR 
+Produccion false RefNumber LC201180112Produccion nuevaERR 
+Produccion false RefNumber LC104180115Produccion nuevaERR 
+Produccion false RefNumber LC004180115Produccion nuevaERR 
+Produccion false RefNumber MC004180115Produccion nuevaERR 
+Produccion false RefNumber MC009180116Produccion nuevaERR 
+Produccion false RefNumber LC109180116Produccion nuevaERR 
+Produccion false RefNumber LC009180116Produccion nuevaERR 
+Produccion false RefNumber MC002180116Produccion nuevaERR 
+Produccion false RefNumber LC102180116Produccion nuevaERR 
+Produccion false RefNumber LC002180116Produccion nuevaERR 
+Produccion false RefNumber LC202180116Produccion nuevaERR 
+Produccion false RefNumber LC101180117Produccion nuevaERR 
+Produccion false RefNumber LC001180117Produccion nuevaERR 
+Produccion false RefNumber LC107180118Produccion nuevaERR 
+Produccion false RefNumber LC007180118Produccion nuevaERR 
+Produccion false RefNumber LC001180118Produccion nuevaERR 
+Produccion false RefNumber MC007180118Produccion nuevaERR 
+Produccion false RefNumber LC201180118Produccion nuevaERR 
+Produccion false RefNumber LC001180119Produccion nuevaERR 
+Produccion false RefNumber LC103180122Produccion nuevaERR 
+Produccion false RefNumber LC003180122Produccion nuevaERR 
+Produccion false RefNumber MC003180122Produccion nuevaERR 
+-------->  FIN DEL LOG 
+Iniciando el proceso de respuesta del SOAP Produccion false RefNumber 20180103/FQProduccion false RefNumber LC101180104Existe produccion ERR 
+Produccion false RefNumber LC001180104Existe produccion ERR 
+Produccion false RefNumber LC108180105Existe produccion ERR 
+Produccion false RefNumber LC001180105Existe produccion ERR 
+Produccion false RefNumber LC105180105Existe produccion ERR 
+Produccion false RefNumber LC005180105Existe produccion ERR 
+Produccion false RefNumber MC005180105Existe produccion ERR 
+Produccion false RefNumber LC008180105Existe produccion ERR 
+Produccion false RefNumber MC008180105Existe produccion ERR 
+Produccion false RefNumber LC003180108Existe produccion ERR 
+Produccion false RefNumber MC003180108Existe produccion ERR 
+Produccion false RefNumber LC103180108Existe produccion ERR 
+Produccion false RefNumber LC101180109Existe produccion ERR 
+Produccion false RefNumber LC001180109Existe produccion ERR 
+Produccion false RefNumber LC106180110Existe produccion ERR 
+Produccion false RefNumber LC006180110Existe produccion ERR 
+Produccion false RefNumber LC105180110Existe produccion ERR 
+Produccion false RefNumber LC005180110Existe produccion ERR 
+Produccion false RefNumber LC102180110Existe produccion ERR 
+Produccion false RefNumber LC002180110Existe produccion ERR 
+Produccion false RefNumber LC201180109Existe produccion ERR 
+Produccion false RefNumber LC101180111Existe produccion ERR 
+Produccion false RefNumber LC001180111Existe produccion ERR 
+Produccion false RefNumber LC202180110Existe produccion ERR 
+Produccion false RefNumber LC001180112Existe produccion ERR 
+Produccion false RefNumber LC201180112Existe produccion ERR 
+Produccion false RefNumber LC104180115Existe produccion ERR 
+Produccion false RefNumber LC004180115Existe produccion ERR 
+Produccion false RefNumber MC004180115Existe produccion ERR 
+Produccion false RefNumber MC009180116Existe produccion ERR 
+Produccion false RefNumber LC109180116Existe produccion ERR 
+Produccion false RefNumber LC009180116Existe produccion ERR 
+Produccion false RefNumber MC002180116Existe produccion ERR 
+Produccion false RefNumber LC102180116Existe produccion ERR 
+Produccion false RefNumber LC002180116Existe produccion ERR 
+Produccion false RefNumber LC202180116Existe produccion ERR 
+Produccion false RefNumber LC101180117Existe produccion ERR 
+Produccion false RefNumber LC001180117Existe produccion ERR 
+Produccion false RefNumber LC107180118Existe produccion ERR 
+Produccion false RefNumber LC007180118Existe produccion ERR 
+Produccion false RefNumber LC001180118Existe produccion ERR 
+Produccion false RefNumber MC007180118Existe produccion ERR 
+Produccion false RefNumber LC201180118Existe produccion ERR 
+Produccion false RefNumber LC001180119Existe produccion ERR 
+Produccion false RefNumber LC103180122Existe produccion ERR 
+Produccion false RefNumber LC003180122Existe produccion ERR 
+Produccion false RefNumber MC003180122Existe produccion ERR 
+-------->  FIN DEL LOG 

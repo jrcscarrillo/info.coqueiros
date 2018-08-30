@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<BuildAssemblyQueryRq  iterator="Start"   requestID="7">
+                            <MaxReturned>3725</MaxReturned>
+                                <ModifiedDateRangeFilter>
+                                    <FromModifiedDate>2018-01-01</FromModifiedDate>
+                                </ModifiedDateRangeFilter>
+                            <OwnerID>0</OwnerID>
+			</BuildAssemblyQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<BuildAssemblyQueryRq  iterator="Start"   requestID="8">
+                            <MaxReturned>3725</MaxReturned>
+                                <ModifiedDateRangeFilter>
+                                    <FromModifiedDate>2018-01-01</FromModifiedDate>
+                                </ModifiedDateRangeFilter>
+                            <OwnerID>0</OwnerID>
+			</BuildAssemblyQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML>

@@ -1,0 +1,449 @@
+<QBXML>
+    <QBXMLMsgsRs>
+        <ClassQueryRs requestID="0" statusCode="0" statusSeverity="Info" statusMessage="Status OK">
+            <ClassRet>
+                <ListID>80000078-1389464252</ListID>
+                <TimeCreated>2014-01-11T13:17:32-05:00</TimeCreated>
+                <TimeModified>2018-01-25T14:32:55-05:00</TimeModified>
+                <EditSequence>1516908775</EditSequence>
+                <Name>ADMIN QUITO</Name>
+                <FullName>ADMIN QUITO</FullName>
+                <IsActive>true</IsActive>
+                <Sublevel>0</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000001-1316715385</ListID>
+                <TimeCreated>2011-09-22T13:16:25-05:00</TimeCreated>
+                <TimeModified>2013-01-23T16:48:37-05:00</TimeModified>
+                <EditSequence>1358977717</EditSequence>
+                <Name>Bodega Materia Prima</Name>
+                <FullName>Bodega Materia Prima</FullName>
+                <IsActive>true</IsActive>
+                <Sublevel>0</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000003-1316715412</ListID>
+                <TimeCreated>2011-09-22T13:16:52-05:00</TimeCreated>
+                <TimeModified>2011-09-22T13:16:52-05:00</TimeModified>
+                <EditSequence>1316715412</EditSequence>
+                <Name>Prod. Terminado</Name>
+                <FullName>Prod. Terminado</FullName>
+                <IsActive>true</IsActive>
+                <Sublevel>0</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000004-1317141550</ListID>
+                <TimeCreated>2011-09-27T11:39:10-05:00</TimeCreated>
+                <TimeModified>2013-01-23T16:01:34-05:00</TimeModified>
+                <EditSequence>1358974894</EditSequence>
+                <Name>QUITO BUEN ESTADO</Name>
+                <FullName>Prod. Terminado:QUITO BUEN ESTADO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000003-1316715412</ListID>
+                    <FullName>Prod. Terminado</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000092-1493244403</ListID>
+                <TimeCreated>2017-04-26T17:06:43-05:00</TimeCreated>
+                <TimeModified>2017-04-26T17:06:43-05:00</TimeModified>
+                <EditSequence>1493244403</EditSequence>
+                <Name>Matriz Quito</Name>
+                <FullName>Prod. Terminado:QUITO BUEN ESTADO:Matriz Quito</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000004-1317141550</ListID>
+                    <FullName>Prod. Terminado:QUITO BUEN ESTADO</FullName>
+                </ParentRef>
+                <Sublevel>2</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>8000008F-1493240143</ListID>
+                <TimeCreated>2017-04-26T15:55:43-05:00</TimeCreated>
+                <TimeModified>2017-04-26T15:55:43-05:00</TimeModified>
+                <EditSequence>1493240143</EditSequence>
+                <Name>Rutas Quito 1</Name>
+                <FullName>Prod. Terminado:QUITO BUEN ESTADO:Rutas Quito 1</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000004-1317141550</ListID>
+                    <FullName>Prod. Terminado:QUITO BUEN ESTADO</FullName>
+                </ParentRef>
+                <Sublevel>2</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000090-1493240166</ListID>
+                <TimeCreated>2017-04-26T15:56:06-05:00</TimeCreated>
+                <TimeModified>2017-04-26T15:56:06-05:00</TimeModified>
+                <EditSequence>1493240166</EditSequence>
+                <Name>Rutas Quito 2</Name>
+                <FullName>Prod. Terminado:QUITO BUEN ESTADO:Rutas Quito 2</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000004-1317141550</ListID>
+                    <FullName>Prod. Terminado:QUITO BUEN ESTADO</FullName>
+                </ParentRef>
+                <Sublevel>2</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000091-1493240200</ListID>
+                <TimeCreated>2017-04-26T15:56:40-05:00</TimeCreated>
+                <TimeModified>2017-04-26T15:56:40-05:00</TimeModified>
+                <EditSequence>1493240200</EditSequence>
+                <Name>Rutas Quito 3</Name>
+                <FullName>Prod. Terminado:QUITO BUEN ESTADO:Rutas Quito 3</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000004-1317141550</ListID>
+                    <FullName>Prod. Terminado:QUITO BUEN ESTADO</FullName>
+                </ParentRef>
+                <Sublevel>2</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000083-1389483249</ListID>
+                <TimeCreated>2014-01-11T18:34:09-05:00</TimeCreated>
+                <TimeModified>2018-01-25T07:21:21-05:00</TimeModified>
+                <EditSequence>1516882881</EditSequence>
+                <Name>SAN LUIS</Name>
+                <FullName>Prod. Terminado:SAN LUIS</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000003-1316715412</ListID>
+                    <FullName>Prod. Terminado</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>8000004B-1353023781</ListID>
+                <TimeCreated>2012-11-15T18:56:21-05:00</TimeCreated>
+                <TimeModified>2014-01-11T18:35:03-05:00</TimeModified>
+                <EditSequence>1389483303</EditSequence>
+                <Name>SAN LUIS BUEN ESTADO</Name>
+                <FullName>Prod. Terminado:SAN LUIS:SAN LUIS BUEN ESTADO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000083-1389483249</ListID>
+                    <FullName>Prod. Terminado:SAN LUIS</FullName>
+                </ParentRef>
+                <Sublevel>2</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000081-1389476561</ListID>
+                <TimeCreated>2014-01-11T16:42:41-05:00</TimeCreated>
+                <TimeModified>2018-01-25T07:20:17-05:00</TimeModified>
+                <EditSequence>1516882817</EditSequence>
+                <Name>RECREO</Name>
+                <FullName>Prod. Terminado:RECREO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000003-1316715412</ListID>
+                    <FullName>Prod. Terminado</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>8000000A-1325252394</ListID>
+                <TimeCreated>2011-12-30T08:39:54-05:00</TimeCreated>
+                <TimeModified>2014-01-11T16:43:30-05:00</TimeModified>
+                <EditSequence>1389476610</EditSequence>
+                <Name>RECREO BUEN ESTADO</Name>
+                <FullName>Prod. Terminado:RECREO:RECREO BUEN ESTADO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000081-1389476561</ListID>
+                    <FullName>Prod. Terminado:RECREO</FullName>
+                </ParentRef>
+                <Sublevel>2</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000009-1325252320</ListID>
+                <TimeCreated>2011-12-30T08:38:40-05:00</TimeCreated>
+                <TimeModified>2013-01-23T15:58:24-05:00</TimeModified>
+                <EditSequence>1358974704</EditSequence>
+                <Name>JIPIJAPA BUEN ESTADO</Name>
+                <FullName>Prod. Terminado:JIPIJAPA BUEN ESTADO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000003-1316715412</ListID>
+                    <FullName>Prod. Terminado</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000017-1325949030</ListID>
+                <TimeCreated>2012-01-07T10:10:30-05:00</TimeCreated>
+                <TimeModified>2013-01-05T15:30:51-05:00</TimeModified>
+                <EditSequence>1357417851</EditSequence>
+                <Name>QUITO MAL ESTADO</Name>
+                <FullName>Prod. Terminado:QUITO MAL ESTADO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000003-1316715412</ListID>
+                    <FullName>Prod. Terminado</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>8000005A-1357416875</ListID>
+                <TimeCreated>2013-01-05T15:14:35-05:00</TimeCreated>
+                <TimeModified>2013-01-05T15:14:35-05:00</TimeModified>
+                <EditSequence>1357416875</EditSequence>
+                <Name>BODEGA LOG&#205;STICA</Name>
+                <FullName>Prod. Terminado:QUITO MAL ESTADO:BODEGA LOG&#205;STICA</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000017-1325949030</ListID>
+                    <FullName>Prod. Terminado:QUITO MAL ESTADO</FullName>
+                </ParentRef>
+                <Sublevel>2</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000062-1357417050</ListID>
+                <TimeCreated>2013-01-05T15:17:30-05:00</TimeCreated>
+                <TimeModified>2013-01-05T15:17:30-05:00</TimeModified>
+                <EditSequence>1357417050</EditSequence>
+                <Name>PDV RUTAS QUITO 2</Name>
+                <FullName>Prod. Terminado:QUITO MAL ESTADO:PDV RUTAS QUITO 2</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000017-1325949030</ListID>
+                    <FullName>Prod. Terminado:QUITO MAL ESTADO</FullName>
+                </ParentRef>
+                <Sublevel>2</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000048-1350344329</ListID>
+                <TimeCreated>2012-10-15T18:38:49-05:00</TimeCreated>
+                <TimeModified>2013-01-23T15:57:53-05:00</TimeModified>
+                <EditSequence>1358974673</EditSequence>
+                <Name>EVENTOS BUEN ESTADO</Name>
+                <FullName>Prod. Terminado:EVENTOS BUEN ESTADO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000003-1316715412</ListID>
+                    <FullName>Prod. Terminado</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000008-1322577790</ListID>
+                <TimeCreated>2011-11-29T09:43:10-05:00</TimeCreated>
+                <TimeModified>2013-01-23T15:58:13-05:00</TimeModified>
+                <EditSequence>1358974693</EditSequence>
+                <Name>GUAYAQUIL BUEN ESTADO</Name>
+                <FullName>Prod. Terminado:GUAYAQUIL BUEN ESTADO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000003-1316715412</ListID>
+                    <FullName>Prod. Terminado</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>8000000E-1325252471</ListID>
+                <TimeCreated>2011-12-30T08:41:11-05:00</TimeCreated>
+                <TimeModified>2013-01-23T15:57:11-05:00</TimeModified>
+                <EditSequence>1358974631</EditSequence>
+                <Name>CAYAMBE-IBARRA BUEN ESTADO</Name>
+                <FullName>Prod. Terminado:CAYAMBE-IBARRA BUEN ESTADO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000003-1316715412</ListID>
+                    <FullName>Prod. Terminado</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000049-1350344349</ListID>
+                <TimeCreated>2012-10-15T18:39:09-05:00</TimeCreated>
+                <TimeModified>2013-01-23T15:55:41-05:00</TimeModified>
+                <EditSequence>1358974541</EditSequence>
+                <Name>BA&#209;OS-PUYO BUEN ESTADO</Name>
+                <FullName>Prod. Terminado:BA&#209;OS-PUYO BUEN ESTADO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000003-1316715412</ListID>
+                    <FullName>Prod. Terminado</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>8000000F-1325264063</ListID>
+                <TimeCreated>2011-12-30T11:54:23-05:00</TimeCreated>
+                <TimeModified>2013-01-23T16:02:15-05:00</TimeModified>
+                <EditSequence>1358974935</EditSequence>
+                <Name>TONSUPA BUEN ESTADO</Name>
+                <FullName>Prod. Terminado:TONSUPA BUEN ESTADO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000003-1316715412</ListID>
+                    <FullName>Prod. Terminado</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>8000000C-1325252442</ListID>
+                <TimeCreated>2011-12-30T08:40:42-05:00</TimeCreated>
+                <TimeModified>2013-01-23T16:00:57-05:00</TimeModified>
+                <EditSequence>1358974857</EditSequence>
+                <Name>MANTA BUEN ESTADO</Name>
+                <FullName>Prod. Terminado:MANTA BUEN ESTADO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000003-1316715412</ListID>
+                    <FullName>Prod. Terminado</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>8000000D-1325252459</ListID>
+                <TimeCreated>2011-12-30T08:40:59-05:00</TimeCreated>
+                <TimeModified>2013-01-23T16:06:34-05:00</TimeModified>
+                <EditSequence>1358975194</EditSequence>
+                <Name>LOS BANCOS-STO DGO BUEN ESTADO</Name>
+                <FullName>Prod. Terminado:LOS BANCOS-STO DGO BUEN ESTADO</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000003-1316715412</ListID>
+                    <FullName>Prod. Terminado</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000087-1410120990</ListID>
+                <TimeCreated>2014-09-07T15:16:30-05:00</TimeCreated>
+                <TimeModified>2014-09-07T15:16:30-05:00</TimeModified>
+                <EditSequence>1410120990</EditSequence>
+                <Name>PRODUCCION</Name>
+                <FullName>PRODUCCION</FullName>
+                <IsActive>true</IsActive>
+                <Sublevel>0</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>8000009B-1533568819</ListID>
+                <TimeCreated>2018-08-06T10:20:19-05:00</TimeCreated>
+                <TimeModified>2018-08-06T10:20:19-05:00</TimeModified>
+                <EditSequence>1533568819</EditSequence>
+                <Name>Bodega Laboratorio</Name>
+                <FullName>PRODUCCION:Bodega Laboratorio</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000087-1410120990</ListID>
+                    <FullName>PRODUCCION</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>8000009A-1533568790</ListID>
+                <TimeCreated>2018-08-06T10:19:50-05:00</TimeCreated>
+                <TimeModified>2018-08-06T10:19:50-05:00</TimeModified>
+                <EditSequence>1533568790</EditSequence>
+                <Name>Bodega Muestras</Name>
+                <FullName>PRODUCCION:Bodega Muestras</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000087-1410120990</ListID>
+                    <FullName>PRODUCCION</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000099-1533568770</ListID>
+                <TimeCreated>2018-08-06T10:19:30-05:00</TimeCreated>
+                <TimeModified>2018-08-06T10:19:30-05:00</TimeModified>
+                <EditSequence>1533568770</EditSequence>
+                <Name>Bodega Reproceso</Name>
+                <FullName>PRODUCCION:Bodega Reproceso</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000087-1410120990</ListID>
+                    <FullName>PRODUCCION</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000098-1533568747</ListID>
+                <TimeCreated>2018-08-06T10:19:07-05:00</TimeCreated>
+                <TimeModified>2018-08-06T10:19:07-05:00</TimeModified>
+                <EditSequence>1533568747</EditSequence>
+                <Name>Bodega Malos</Name>
+                <FullName>PRODUCCION:Bodega Malos</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000087-1410120990</ListID>
+                    <FullName>PRODUCCION</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000013-1325799059</ListID>
+                <TimeCreated>2012-01-05T16:30:59-05:00</TimeCreated>
+                <TimeModified>2012-01-05T16:30:59-05:00</TimeModified>
+                <EditSequence>1325799059</EditSequence>
+                <Name>Tipo de Gasto</Name>
+                <FullName>Tipo de Gasto</FullName>
+                <IsActive>true</IsActive>
+                <Sublevel>0</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000016-1325799127</ListID>
+                <TimeCreated>2012-01-05T16:32:07-05:00</TimeCreated>
+                <TimeModified>2012-01-05T16:32:07-05:00</TimeModified>
+                <EditSequence>1325799127</EditSequence>
+                <Name>No Deducible</Name>
+                <FullName>Tipo de Gasto:No Deducible</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000013-1325799059</ListID>
+                    <FullName>Tipo de Gasto</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000023-1326914910</ListID>
+                <TimeCreated>2012-01-18T14:28:30-05:00</TimeCreated>
+                <TimeModified>2012-01-18T14:28:30-05:00</TimeModified>
+                <EditSequence>1326914910</EditSequence>
+                <Name>Quito</Name>
+                <FullName>Tipo de Gasto:No Deducible:Quito</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000016-1325799127</ListID>
+                    <FullName>Tipo de Gasto:No Deducible</FullName>
+                </ParentRef>
+                <Sublevel>2</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>80000015-1325799113</ListID>
+                <TimeCreated>2012-01-05T16:31:53-05:00</TimeCreated>
+                <TimeModified>2012-01-05T16:31:53-05:00</TimeModified>
+                <EditSequence>1325799113</EditSequence>
+                <Name>Sin Iva Deducible</Name>
+                <FullName>Tipo de Gasto:Sin Iva Deducible</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000013-1325799059</ListID>
+                    <FullName>Tipo de Gasto</FullName>
+                </ParentRef>
+                <Sublevel>1</Sublevel>
+            </ClassRet>
+            <ClassRet>
+                <ListID>8000002A-1326915023</ListID>
+                <TimeCreated>2012-01-18T14:30:23-05:00</TimeCreated>
+                <TimeModified>2012-01-18T14:30:23-05:00</TimeModified>
+                <EditSequence>1326915023</EditSequence>
+                <Name>Quito</Name>
+                <FullName>Tipo de Gasto:Sin Iva Deducible:Quito</FullName>
+                <IsActive>true</IsActive>
+                <ParentRef>
+                    <ListID>80000015-1325799113</ListID>
+                    <FullName>Tipo de Gasto:Sin Iva Deducible</FullName>
+                </ParentRef>
+                <Sublevel>2</Sublevel>
+            </ClassRet>
+        </ClassQueryRs>
+    </QBXMLMsgsRs>
+</QBXML>
+

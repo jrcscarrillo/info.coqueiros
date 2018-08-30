@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Facturas Coqueiros</title>
+        <meta name="description" content="Factura">
+        <meta name="author" content="">
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <link rel="stylesheet" href="../css/estilos.css">
+        <link href="../css/estilos.css" rel="stylesheet" media="all">
+        <link href="../css/imprimir.css" rel="stylesheet" media="print">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link href="https://fortawesome.github.io/Font-Awesome/assets/font-awesome/css/font-awesome.css" rel="stylesheet">
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+        <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
+        <script src="../js/modernizr-2.8.3.min.js"></script>
+    </head>
+    <strongody>
+        <div id="main-container">
+            <div class="row" id="first-container">
+                <div class="col-md-6">
+                    <!--izquierda-->
+                    <div class="row">
+                        <div class="col-md-6" id="logo">
+                            <h1><img src="../img/logo.jpg" alt="logo" class="img-responsive"></h1>
+                        </div>
+                        <div class="col-md-6">
+
+                        </div>
+                    </div>
+                    <div class="info-container">
+                        <h2 class="titulo" id="cia"><p>HELADERIAS COFRUNAT CIA. LTDA.</p></h2>
+                        <div class="row">
+                            <div class="col-md-3 ochopx">Direcci&oacute;n Matriz:</div>
+                            <div class="col-md-9 diezpx align-right"><strong id="matriz"><p>El Morlan N52-18 e Isacc Barrera</p></strong></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-3 ochopx">Direcci&oacute;n Sucursal:</div>
+                            <div class="col-md-9 diezpx align-right"><strong id="emisor"><p>El Morlan N52-18 e Isacc Barrera</p></strong></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-5 ochopx ">Contribuyente Especial Nro:</div>
+                            <div class="col-md-7 diezpx align-right"><strong id="especial"><p>12345</p></strong></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 ochopx">OBLIGADO A LLEVAR CONTABILIDAD:</div>
+                            <div class="col-md-6 diezpx align-right"><strong id="obligado"><p>SI</p></strong></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <!--derecha-->
+                    <div class="info-container">
+                        <div class="row">
+                            <div class="col-md-5 align-left division150"><h2>RUC</h2></div>
+                            <div class="col-md-5 align-right division250"><h2 id="ruc"><p>1790892875001</p></h2></div>
+                            <div class="col-md-2"></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-5 align-left division150"><h2>FACTURA Nro: </h2></div>
+                            <div class="col-md-7 align-right division250"><h2 id="numerofactura"><p>001-001-000000631</p></h2></div>
+                        </div>
+                        <div><p></p></div>
+                        <div class="row">
+                            <div class="col-md-12" id="autorizacion"><h3>- AUTORIZACION -</h3></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 ochopx">N&Uacute;MERO: </div>
+                            <div class="col-md-8 diezpx align-right"><strong id="numeroauto"><p>0911201701179089287500110010010000006310041532616</p></strong></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 ochopx">AMBIENTE:</div>
+                            <div class="col-md-8 diezpx align-right"><strong id="ambiente"><p>PRUEBAS</p></strong></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 ochopx">EMISI&Oacute;N:</div>
+                            <div class="col-md-8 diezpx align-right"><strong id="emision"><p>NORMAL</p></strong></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12"><img src="../img/codbarra.jpg" class="img-responsive"></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12 diezpx" id="nro-codigo-barras"><strong id="claveacceso"><p>0911201701179089287500110010010000006310041532616</p></strong></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12" id="second-container">
+                    <div class="row diezpx">
+                        <div class="col-md-6 division350">Raz&oacute;n Social / Nombres y Apellidos</div>
+                        <div class="col-md-6 division350">Identificaci&oacute;n</div>
+                    </div>
+                    <div class="row diezpx">
+                        <div class="col-md-6 division350" id="razon"><p></p></div>
+                        <div class="col-md-6 division350" id="rucCliente"><p></p></div>
+                    </div>
+                    <div class="row diezpx">
+                        <div class="col-md-6 division350" id="razon1"></div>
+                        <div class="col-md-6 division350"></div>
+                    </div>
+                    <div class="row diezpx">
+                        <div class="col-md-6 division350">Fecha Emisi&oacute;n</div>
+                        <div class="col-md-6 division350">Direccion Cliente</div>
+                    </div>
+                    <div class="row diezpx">
+                        <div class="col-md-6 division350" id="fechaemision"><p></p></div>
+                        <div class="col-md-6 division350" id="direccion"><p></p></div>
+                    </div> 
+                    <div class="row diezpx">
+                        <div class="col-md-6 division350"></div>
+                        <div class="col-md-6 division350" id="direccion1"></div>
+                    </div> 
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <table class="table table-bordered table-striped"><tr><th class="cabecerta-tabla">C&oacute;digo</th>
+                            <th class="cabecerta-tabla">Descripci&oacute;n</th>
+                            <th class="cabecerta-tabla">Cantidad</th>
+                            <th class="cabecerta-tabla">Precio Unitario</th>
+                            <th class="cabecerta-tabla">Descuento</th>
+                            <th class="cabecerta-tabla">Precio Total</th>
+                        </tr><tr><td class="codigo ochopx"><p>80000001-1316627288</p><p>80000017-1317912731</p><p>80000045-1320783003</p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p></td>
+                            <td class="descripcion ochopx"><p>Coqueiro Super 110 g. Coco</p><p>7862102274009 Coqueiro Ideal 60g. Coco</p><p>7862102274405 Coqueiro Ideal 60g. Chocolate</p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p></td>
+                            <td class="align-center ochopx"><p>100,00</p><p>1,00</p><p>1,00</p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p></td>
+                            <td class="align-right ochopx"><p>0,9904</p><p>0,0000</p><p>0,0000</p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p></td>
+                            <td class="align-right ochopx"></td>
+                            <td class="align-right ochopx"><p>99,04</p><p>0,00</p><p>0,00</p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p></td>
+                        </tr></table></div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="info-container" id="info-adicional">
+                        <h4>Informaci&oacute;n Adicional</h4>
+                        <div class="row">
+                            <div class="col-md-4 ochopx"><strong id="dato1"></strong></div>
+                            <div class="col-md-8 align-right ochopx"><strong id="detalle1"></strong></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 ochopx"><strong id="dato2"></strong></div>
+                            <div class="col-md-8 align-right ochopx"><strong id="detalle2"></strong></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 ochopx"><strong id="dato3"></strong></div>
+                            <div class="col-md-8 align-right ochopx"><strong id="detalle3"></strong></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col-md-5">
+                    <table class="table table-bordered table-striped" id="subtotales"><tr><td class="ochopx">SUBTOTAL 12%</td>
+                            <td class="align-right ochopx"><strong id="imponible12"><p>99,04</p></strong></td>
+                        </tr><tr><td class="ochopx">SUBTOTAL 0%</td>
+                            <td class="align-right ochopx"><strong id="imponible0"></strong></td>
+                        </tr><tr><td class="ochopx">SUBTOTAL SIN IMPUESTOS</td>
+                            <td class="align-right ochopx"><strong id="totalSinImpto"><p>0,00</p></strong></td>
+                        </tr><tr><td class="ochopx">TOTAL Descuento</td>
+                            <td class="align-right ochopx"><strong id="totaldscto"></strong></td>
+                        </tr><tr><td class="ochopx">IVA 12%</td>
+                            <td class="align-right ochopx"><strong id="valorImpto12"><p>0,00</p></strong></td>
+                        </tr><tr><td class="ochopx">VALOR TOTAL</td>
+                            <td class="align-right ochopx"><strong id="apagar"><p>0,00</p></strong></td>
+                        </tr></table></div>
+            </div>
+            <div class="row">
+                <div class="col-md-12"></div>
+            </div>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script><!--[if lt IE 7 ]>
+            <script src="js/dd_belatedpng.js?v=1"></script>
+        <![endif]--></body></html>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<InvoiceQueryRq  iterator="Start"   requestID="18">
+                            <MaxReturned>1725</MaxReturned>
+                            <TxnDateRangeFilter>
+                                <FromTxnDate >2018-01-01</FromTxnDate>
+                                <ToTxnDate >2018-08-11</ToTxnDate>
+                            </TxnDateRangeFilter>
+                            <IncludeLineItems>true</IncludeLineItems>
+                            <OwnerID>0</OwnerID>
+			</InvoiceQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML>

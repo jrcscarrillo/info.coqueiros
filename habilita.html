@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Habilitar Usuario</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="css/demo.css">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/sky-forms.css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/jquery.form.min.js"></script>
+    <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.12.0/jquery.validate.js"></script>
+    <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.12.0/additional-methods.js"></script>
+    <script src="js/habilita.js"></script>
+
+</head>
+<body class="bg-blue">
+<div id="wrapper" class="boxed">
+
+    <div class="body">
+        <form action="./include/habilita.php" method="POST" enctype="multipart/form-data" id="sky-form" class="sky-form">
+            <header>Usuario</header>
+            <fieldset>
+                <div class="row">
+                    <section class="col col-6">
+                        <label class="input"> <i class="icon-append fa fa-user"></i>
+                            <input type="email" name="emailForm" placeholder="Email Empresarial"></label>
+                    </section>
+                </div>
+            </fieldset>
+            <fieldset>
+                <div class="progress">
+                    <section class="col col-6">
+                        <button type="submit" class="button">Habilitar</button>
+                    </section>
+                </div>
+                <div class="progress"></div>
+            </fieldset>
+        </form>
+    </div>
+</div>
+</body>
+</html>

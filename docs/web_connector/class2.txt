@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq  iterator="Start"   requestID="10">
+                            <MaxReturned>3725</MaxReturned>
+                                    <FromModifiedDate>2018-01-01</FromModifiedDate>
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq  iterator="Start"   requestID="11">
+                            <MaxReturned>3725</MaxReturned>
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq  iterator="Start"   requestID="12">
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq  iterator="Start"   requestID="13">
+                            <MaxReturned>3725</MaxReturned>
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?qbxml version="6.0"?>
+<QBXML>
+<QBXMLMsgsRq onError = "stopOnError">
+<ClassQueryRq requestID = "0"/>
+</QBXMLMsgsRq>
+</QBXML><?qbxml version="6.0"?>
+<QBXML>
+<QBXMLMsgsRq onError = "stopOnError">
+<ClassQueryRq requestID = "0"/>
+</QBXMLMsgsRq>
+</QBXML><?qbxml version="6.0"?>
+<QBXML>
+<QBXMLMsgsRq onError = "stopOnError">
+<ClassQueryRq requestID = "0"/>
+</QBXMLMsgsRq>
+</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq  iterator="Start"   requestID="9">
+                            <MaxReturned>3725</MaxReturned>
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq  iterator="Start"   requestID="10">
+                            <MaxReturned>3725</MaxReturned>
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq>
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq>
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq>
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq>
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq>
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq>
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML><?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="13.0"?>
+		<QBXML>
+                    <QBXMLMsgsRq onError="stopOnError">
+			<ClassQueryRq>
+			</ClassQueryRq>	
+                    </QBXMLMsgsRq>
+		</QBXML>

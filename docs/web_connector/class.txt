@@ -1,0 +1,2 @@
+Inicio recoger fechas de sincronizacion 
+fechas : 2018-01-01 2018-08-11\r\n

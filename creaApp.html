@@ -1,0 +1,120 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <title>Aplicaciones para WC</title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+        <link rel="stylesheet" href="css/demo.css">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/sky-forms.css">
+        <link rel="stylesheet" href="css/sky-forms-orange.css">
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+        <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.12.0/jquery.validate.js"></script>
+        <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.12.0/additional-methods.js"></script>
+    </head>
+
+    <body class="bg-black">
+        <div class="container">		
+            <form action="./docs/web_connector/creaApp.php" id="sky-form" class="sky-form" method="POST">
+                <header>Ingresa Aplicacion</header>
+
+                <fieldset>
+                    <label class="label">Ingrese Datos Aplicacion</label>	
+                    <div class="row">	
+                        <section class="col col-12">
+                            <label class="label">Nombre</label>
+                            <label class="input">
+                                <i class="icon-append fa fa-user"></i>
+                                <input type="text" name="idForm" id="idForm" placeholder="Nombre (sin espacios)">
+                            </label>
+                        </section>
+                    </div>					
+                    <div class="row">	
+                        <section class="col col-12">
+                            <label class="label">Descripcion</label>
+                            <label class="input">
+                                <i class="icon-append fa fa-key"></i>
+                                <input type="text" name="descForm" id="descForm" placeholder="Descripcion de la aplicacion">
+                            </label>
+                        </section>
+                    </div>
+                </fieldset>
+                
+                <fieldset>
+                    <label class="label">Ingrese Datos URL's</label>	
+                    <div class="row">	
+                        <section class="col col-12">
+                            <label class="label">Direccion URL</label>
+                            <label class="input">
+                                <i class="icon-append fa fa-user"></i>
+                                <input type="text" name="urlForm" id="urlForm" placeholder="Direccion URL del programa">
+                            </label>
+                        </section>
+                    </div>					
+                    <div class="row">	
+                        <section class="col col-12">
+                            <label class="label">Soporte URL</label>
+                            <label class="input">
+                                <i class="icon-append fa fa-key"></i>
+                                <input type="text" name="soporteForm" id="soporteForm" placeholder="Direccion URL de Soporte">
+                            </label>
+                        </section>
+                    </div>
+                </fieldset>					
+                <footer>
+                    <label class="label">No olvidarse que la aplicacion debe ser unica</label>
+                    <button type="submit" class="button">Procesar</button>
+                    <button type="button" class="button button-secondary" onclick="window.history.back();">Regresar</button>
+                </footer>
+            </form>			
+        </div>
+        <script type="text/javascript">
+            $(function () {
+                $("#sky-form").validate({
+                    rules: {
+                        idForm: {
+                            minlength: 12,
+                            maxlength: 25,
+                            required: true
+                        },
+                        descForm: {
+                            minlength: 25,
+                            maxlength: 200,
+                            required: true
+                        },
+                        urlForm: {
+                            required: true
+                        },
+                        soporteForm: {
+                            required: true
+                        }
+                    },
+                    messages: {
+                        idForm: {
+                            required: 'Ingrese el nombre de la aplicacion',
+                            minlength: "Minimo de 12 caracteres",
+                            maxlength: "Maximo de 25 caracteres",
+                        },
+                        claveForm: {
+                            required: 'Ingrese Descripcion de la aplicacion',
+                            minlength: "Minimo de 25 caracteres",
+                            maxlength: "Maximo de 200 caracteres",
+                        },
+                        urlForm: {
+                            required: 'Ingrese una URL valida',
+                        },
+                        soporteForm: {
+                            required: 'Ingrese una URL valida',
+                        }
+                    },
+                    errorPlacement: function (error, element) {
+                        error.insertAfter(element.parent());
+                    }
+                });
+            });
+        </script>
+    </body>
+</html>

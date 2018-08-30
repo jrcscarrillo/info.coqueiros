@@ -1,0 +1,1288 @@
+<?xml version="1.0" ?>
+<QBXML>
+    <QBXMLMsgsRs>
+        <EmployeeQueryRs requestID="0" statusCode="0" statusSeverity="Info" statusMessage="Status OK">
+            <EmployeeRet>
+                <ListID>80001FFF-1498600767</ListID>
+                <TimeCreated>2017-06-27T16:59:27-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Alfonzo Alfonzo Daxisbel del Valle</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Ms</Salutation>
+                <FirstName>Alfonzo Alfonzo</FirstName>
+                <LastName>Daxisbel del Valle</LastName>
+                <EmployeeAddress>
+                    <Addr1>UE Marketing y Ventas</Addr1>
+                    <Addr2>UE Marketing y Ventas</Addr2>
+                    <City>Impulsadora de Ventas</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Alfonzo Alfonzo Daxisbel del Valle</PrintAs>
+                <Phone>6025427</Phone>
+                <Mobile>0983754205</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2017-06-12</HiredDate>
+                <BirthDate>1987-11-20</BirthDate>
+                <AccountNumber>6102977078</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>8000204D-1501255840</ListID>
+                <TimeCreated>2017-07-28T10:30:40-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Arias Coloma Javier ivan</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Mr</Salutation>
+                <FirstName>Arias Coloma</FirstName>
+                <LastName>Javier ivan</LastName>
+                <EmployeeAddress>
+                    <Addr1>UE Marketing y Ventas</Addr1>
+                    <Addr2>UE Marketing y Ventas</Addr2>
+                    <City>Asistente de Marketing</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Arias Coloma Javier ivan</PrintAs>
+                <Phone>3282770</Phone>
+                <Mobile>0982426492</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2017-07-14</HiredDate>
+                <BirthDate>1984-03-18</BirthDate>
+                <AccountNumber>1716456924</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001A34-1453839721</ListID>
+                <TimeCreated>2016-01-26T14:22:01-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Armijos Barvecho Paola Amparo</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Ms</Salutation>
+                <FirstName>Armijos Barvecho</FirstName>
+                <LastName>Paola Amparo</LastName>
+                <EmployeeAddress>
+                    <Addr1>UE Financiera</Addr1>
+                    <Addr2>Cargo: Auxiliar Contable</Addr2>
+                    <City>UE Financiera</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Armijos Barvecho Paola Amparo</PrintAs>
+                <Phone>2640968</Phone>
+                <Mobile>0984087609</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2016-01-11</HiredDate>
+                <BirthDate>1990-03-10</BirthDate>
+                <AccountNumber>1723482962</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80000027-1319562192</ListID>
+                <TimeCreated>2011-10-25T12:03:12-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Averos Freire Rosita Marivel</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Averos Freire</FirstName>
+                <LastName>Rosita Marivel</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Proveedora de Log&#237;stica y Conserje</Addr1>
+                    <City>UE LOG&#205;STICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Averos Freire Rosita Marivel</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2011-10-25</HiredDate>
+                <BirthDate>1979-09-16</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80000028-1319587015</ListID>
+                <TimeCreated>2011-10-25T18:56:55-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Azuero Azuero Julio Antonio</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Azuero Azuero</FirstName>
+                <LastName>Julio Antonio</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Responsable de Log&#237;stica</Addr1>
+                    <City>UE LOG&#205;STICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Azuero Azuero Julio Antonio</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2011-10-25</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001273-1402089783</ListID>
+                <TimeCreated>2014-06-06T16:23:03-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Brice&#241;o Libas Fortunato.</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Brice&#241;o Libas</FirstName>
+                <LastName>Fortunato.</LastName>
+                <EmployeeAddress>
+                    <City>U.E.LOGISTICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Brice&#241;o Libas Fortunato.</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2014-04-01</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80000008-1317137279</ListID>
+                <TimeCreated>2011-09-27T10:27:59-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Bustos Espinosa Alfonso Salom&#243;n</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Bustos Espinosa</FirstName>
+                <LastName>Alfonso Salom&#243;n</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Administrador de Proyectos</Addr1>
+                    <City>UE DIRECCI&#211;N</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Bustos Espinosa Alfonso Salom&#243;n</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80000009-1317137307</ListID>
+                <TimeCreated>2011-09-27T10:28:27-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Bustos Espinosa Edison Eduardo</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Bustos Espinosa</FirstName>
+                <LastName>Edison Eduardo</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Administrador Oficina Guayaquil</Addr1>
+                    <City>OFICINA GUAYAQUIL</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Bustos Espinosa Edison Eduardo</PrintAs>
+                <Email>edisonbustos@loscoqueiros.com</Email>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80000026-1319560614</ListID>
+                <TimeCreated>2011-10-25T11:36:54-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Bustos Neira Alejandro Francisco</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Bustos Neira</FirstName>
+                <LastName>Alejandro Francisco</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Asesor en Comunicaci&#243;n-Publicidad</Addr1>
+                    <City>UE MARKETING</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Bustos Neira Alejandro Francisco</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-01-01</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001F1D-1491830011</ListID>
+                <TimeCreated>2017-04-10T08:13:31-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Bustos Neira Hugo Xavier - E</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Mr</Salutation>
+                <FirstName>Bustos Neira</FirstName>
+                <LastName>Hugo Xavier - E</LastName>
+                <EmployeeAddress>
+                    <Addr1>Gerencia General</Addr1>
+                    <City>Gerente General</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Bustos Neira Hugo Xavier - E</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>1994-04-01</HiredDate>
+                <AccountNumber>1710254325</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>8000051E-1331330359</ListID>
+                <TimeCreated>2012-03-09T15:59:19-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Bustos Vallejo Edison Andr&#233;s</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Bustos Vallejo</FirstName>
+                <LastName>Edison Andr&#233;s</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Asesor de Ventas</Addr1>
+                    <City>OFICINA GUAYAQUIL</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Bustos Vallejo Edison Andr&#233;s</PrintAs>
+                <Email>edisonbustos@loscoquieiros.com</Email>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-03-09</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800004C6-1328812434</ListID>
+                <TimeCreated>2012-02-09T12:33:54-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Cacuango Cacuango Jhonatan Xavier</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Cacuango Cacuango</FirstName>
+                <LastName>Jhonatan Xavier</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Auxiliar Financiero</Addr1>
+                    <City>UE FINANCIERA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Cacuango Cacuango Jhonatan Xavier</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-02-09</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80000504-1330016676</ListID>
+                <TimeCreated>2012-02-23T11:04:36-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Cacuango Catucuamba Alejandro Isaac</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Cacuango Catucuamba</FirstName>
+                <LastName>Alejandro Isaac</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Responsable de Log&#237;stica</Addr1>
+                    <City>UE LOG&#205;STICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Cacuango Catucuamba Alejandro Isaac</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-02-23</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001270-1402088475</ListID>
+                <TimeCreated>2014-06-06T16:01:15-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Carrillo Serrano Jaime Vinicio</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Carrillo Serrano</FirstName>
+                <LastName>Jaime Vinicio</LastName>
+                <EmployeeAddress>
+                    <City>U.E.FINANZAS</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Carrillo Serrano Jaime Vinicio</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2014-04-01</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800004C8-1328818370</ListID>
+                <TimeCreated>2012-02-09T14:12:50-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Castellanos Bastidas Oscar Patricio</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Castellanos Bastidas</FirstName>
+                <LastName>Oscar Patricio</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Responsable de Log&#237;stica</Addr1>
+                    <City>UE PRODUCCI&#211;N</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Castellanos Bastidas Oscar Patricio</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-02-09</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800020A7-1504118984</ListID>
+                <TimeCreated>2017-08-30T13:49:44-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Castro Panchana Elias David</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Mr</Salutation>
+                <FirstName>Castro Panchana</FirstName>
+                <LastName>Elias David</LastName>
+                <EmployeeAddress>
+                    <Addr1>U.E. Guayaquil</Addr1>
+                    <City>Desarrollador de Canal</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Castro Panchana Elias David</PrintAs>
+                <Phone>043885148</Phone>
+                <Mobile>0959290186</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2017-08-23</HiredDate>
+                <BirthDate>1966-06-22</BirthDate>
+                <AccountNumber>0910615574</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800019CB-1450906870</ListID>
+                <TimeCreated>2015-12-23T15:41:10-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Castro Sandoya Luis Andres</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Castro Sandoya</FirstName>
+                <LastName>Luis Andres</LastName>
+                <EmployeeAddress>
+                    <Addr1>Oficina Guayaquil</Addr1>
+                    <Addr2>Cargo: Auxiliar Administrativo</Addr2>
+                    <City>Oficina Guayaquil</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Castro Sandoya Luis Andres</PrintAs>
+                <Phone>0985664337</Phone>
+                <Mobile>045040421</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2015-12-22</HiredDate>
+                <BirthDate>1994-03-22</BirthDate>
+                <AccountNumber>1313720300</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001FFD-1498600260</ListID>
+                <TimeCreated>2017-06-27T16:51:00-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:46-06:00</TimeModified>
+                <EditSequence>1504122526</EditSequence>
+                <Name>Chamorro Sierra Jhonny Jesus</Name>
+                <IsActive>true</IsActive>
+                <Salutation>MR</Salutation>
+                <FirstName>Chamorro Sierra</FirstName>
+                <LastName>Jhonny Jesus</LastName>
+                <EmployeeAddress>
+                    <Addr1>UE Log&#237;stica</Addr1>
+                    <Addr2>UE Log&#237;stica</Addr2>
+                    <City>Responsable de Log&#237;stica</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Chamorro Sierra Jhonny Jesus</PrintAs>
+                <Mobile>0998940118</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2017-06-01</HiredDate>
+                <BirthDate>1994-07-09</BirthDate>
+                <AccountNumber>1727559997</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800015C8-1423072491</ListID>
+                <TimeCreated>2015-02-04T11:54:51-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Chango Hidalgo Jonathan Xavier</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Chango Hidalgo</FirstName>
+                <LastName>Jonathan Xavier</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Responsable del Proceso Productivo</Addr1>
+                    <City>UE PRODUCCION</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Chango Hidalgo Jonathan Xavier</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80000B9F-1365198842</ListID>
+                <TimeCreated>2013-04-05T16:54:02-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Chuez Morales Galud Marisol</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Chuez Morales</FirstName>
+                <LastName>Galud Marisol</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Conserje</Addr1>
+                    <City>UE TONSUPA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Chuez Morales Galud Marisol</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2013-03-01</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800004CC-1328818913</ListID>
+                <TimeCreated>2012-02-09T14:21:53-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Correa Cabrera Wilson Alberto</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Correa Cabrera</FirstName>
+                <LastName>Wilson Alberto</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Auxiliar de Dise&#241;o Gr&#225;fico</Addr1>
+                    <City>UE ADMINISTRACI&#211;N</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Correa Cabrera Wilson Alberto</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-02-09</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001E42-1485550539</ListID>
+                <TimeCreated>2017-01-27T14:55:39-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Criollo Saez Cesar Augusto</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Mr</Salutation>
+                <FirstName>Criollo Saez</FirstName>
+                <LastName>Cesar Augusto</LastName>
+                <EmployeeAddress>
+                    <Addr1>UE. Marketing y Ventas</Addr1>
+                    <City>Asesor de Ventas</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Criollo Saez Cesar Augusto</PrintAs>
+                <Phone>2602627</Phone>
+                <Mobile>0987575171</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2017-01-30</HiredDate>
+                <BirthDate>1982-09-26</BirthDate>
+                <AccountNumber>1713623591</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800004CF-1328819747</ListID>
+                <TimeCreated>2012-02-09T14:35:47-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Encarnaci&#243;n Ullaguari Wilson Enrique</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Encarnaci&#243;n Ullaguari</FirstName>
+                <LastName>Wilson Enrique</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Responsable de Ventas y Cobranza</Addr1>
+                    <City>UE VENTAS Y COBRANZA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Encarnaci&#243;n Ullaguari Wilson Enrique</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-02-09</HiredDate>
+                <BirthDate>1969-07-22</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800020A6-1504118754</ListID>
+                <TimeCreated>2017-08-30T13:45:54-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Gaibor Almendariz Richard Robert</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Mr</Salutation>
+                <FirstName>Gaibor Almendariz</FirstName>
+                <LastName>Richard Robert</LastName>
+                <EmployeeAddress>
+                    <Addr1>U.E. Marketing y Ventas</Addr1>
+                    <City>Desarrollador de Canal</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Gaibor Almendariz Richard Robert</PrintAs>
+                <Phone>3805666</Phone>
+                <Mobile>0999809548</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2017-08-28</HiredDate>
+                <BirthDate>1971-01-06</BirthDate>
+                <AccountNumber>1711651875</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800015C7-1423072189</ListID>
+                <TimeCreated>2015-02-04T11:49:49-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Galarza Bola&#241;os  Luis Adrian</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Galarza Bola&#241;os</FirstName>
+                <LastName> Luis Adrian</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Responsable del Proceso Productivo</Addr1>
+                    <City>UE PRODUCCION</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Galarza Bola&#241;os  Luis Adrian</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001613-1425055229</ListID>
+                <TimeCreated>2015-02-27T10:40:29-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>G&#243;mez Ortiz Eliana Maricela</Name>
+                <IsActive>true</IsActive>
+                <FirstName>G&#243;mez Ortiz</FirstName>
+                <LastName>Eliana Maricela</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Promotora de Ventas Directas</Addr1>
+                    <City>UE: Ventas Directas</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>G&#243;mez Ortiz Eliana Maricela</PrintAs>
+                <Phone>2384589</Phone>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2015-02-03</HiredDate>
+                <BirthDate>1993-06-22</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800004D2-1328821398</ListID>
+                <TimeCreated>2012-02-09T15:03:18-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Gonz&#225;lez Pulupa Juan Carlos</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Gonz&#225;lez Pulupa</FirstName>
+                <LastName>Juan Carlos</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Realizador de Producci&#243;n</Addr1>
+                    <City>UE PRODUCCI&#211;N</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Gonz&#225;lez Pulupa Juan Carlos</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-02-09</HiredDate>
+                <BirthDate>1976-02-13</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>8000204F-1501256291</ListID>
+                <TimeCreated>2017-07-28T10:38:11-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Hatty G&#243;mez Christian Gabriel</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Mr</Salutation>
+                <FirstName>Hatty G&#243;mez</FirstName>
+                <LastName>Christian Gabriel</LastName>
+                <EmployeeAddress>
+                    <Addr1>UE Logistica</Addr1>
+                    <Addr2>UE Logistica</Addr2>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Hatty G&#243;mez Christian Gabriel</PrintAs>
+                <Phone>0983209222</Phone>
+                <Mobile>0983209222</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2017-07-24</HiredDate>
+                <BirthDate>1991-10-03</BirthDate>
+                <AccountNumber>1721908430</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800004D6-1328828958</ListID>
+                <TimeCreated>2012-02-09T17:09:18-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Hurtado Montenegro Manuel Olmedo</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Hurtado Montenegro</FirstName>
+                <LastName>Manuel Olmedo</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Realizador de Producci&#243;n</Addr1>
+                    <City>UE PRODUCCI&#211;N</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Hurtado Montenegro Manuel Olmedo</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-02-09</HiredDate>
+                <BirthDate>1979-11-08</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>8000198D-1448500742</ListID>
+                <TimeCreated>2015-11-25T19:19:02-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Japon Manobanda Hugo Xavier</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Mr</Salutation>
+                <FirstName>Japon Manobanda</FirstName>
+                <LastName>Hugo Xavier</LastName>
+                <EmployeeAddress>
+                    <Addr1>Responsable Proceso Productivo</Addr1>
+                    <City>UE Producci&#243;n</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Japon Manobanda Hugo Xavier</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2015-11-16</HiredDate>
+                <BirthDate>1995-04-21</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001617-1425057533</ListID>
+                <TimeCreated>2015-02-27T11:18:53-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>L&#243;pez Santill&#225;n Angel Marcelo</Name>
+                <IsActive>true</IsActive>
+                <FirstName>L&#243;pez Santill&#225;n</FirstName>
+                <LastName>Angel Marcelo</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Coordinador de Talento Humano</Addr1>
+                    <City>UE Administraci&#243;n</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>L&#243;pez Santill&#225;n Angel Marcelo</PrintAs>
+                <Phone>022687747</Phone>
+                <Mobile>0992769478</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2015-02-06</HiredDate>
+                <BirthDate>1984-02-02</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001448-1412375011</ListID>
+                <TimeCreated>2014-10-03T17:23:31-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Magallon Cervonet Rudy Rene.</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Magallon Cervonet</FirstName>
+                <LastName>Rudy Rene.</LastName>
+                <EmployeeAddress>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Magallon Cervonet Rudy Rene</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2014-10-03</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800004D9-1328829506</ListID>
+                <TimeCreated>2012-02-09T17:18:26-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Mi&#241;o Cuaran Roc&#237;o Del Carmen</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Mi&#241;o Cuaran</FirstName>
+                <LastName>Roc&#237;o Del Carmen</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Promotora de Ventas</Addr1>
+                    <City>UE MARKETING</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Mi&#241;o Cuaran Roc&#237;o Del Carmen</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2012-02-09</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80000582-1336001523</ListID>
+                <TimeCreated>2012-05-02T18:32:03-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Molina Yaguana Angel Antonio</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Molina Yaguana</FirstName>
+                <LastName>Angel Antonio</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Responsable de Log&#237;stica</Addr1>
+                    <City>UE LOG&#205;STICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Molina Yaguana Angel Antonio</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-05-02</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001445-1412366329</ListID>
+                <TimeCreated>2014-10-03T14:58:49-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Montesdeoca Campa&#241;a Juan Pablo</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Montesdeoca Campa&#241;a</FirstName>
+                <LastName>Juan Pablo</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Responsable de Logistica</Addr1>
+                    <City>UE LOGISTICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Montesdeoca Campa&#241;a Juan Pablo</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2014-09-16</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800020A8-1504119129</ListID>
+                <TimeCreated>2017-08-30T13:52:09-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Mora LLumigusin Maritza Ximena</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Ms</Salutation>
+                <FirstName>Mora LLumigusin</FirstName>
+                <LastName>Maritza Ximena</LastName>
+                <EmployeeAddress>
+                    <Addr1>U.E. Producci&#243;n</Addr1>
+                    <City>Analista de Calidad</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Mora LLumigusin Maritza Ximena</PrintAs>
+                <Phone>0984563337</Phone>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2017-08-07</HiredDate>
+                <BirthDate>1980-01-02</BirthDate>
+                <AccountNumber>1715984397</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001F04-1490819445</ListID>
+                <TimeCreated>2017-03-29T15:30:45-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Morillo Carapaz Arturo Gilberto.</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Mr</Salutation>
+                <FirstName>Morillo Carapaz</FirstName>
+                <LastName>Arturo Gilberto.</LastName>
+                <EmployeeAddress>
+                    <Addr1>UE Log&#237;stica</Addr1>
+                    <City>Responsable de Log&#237;stica</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Morillo Carapaz Arturo Gilberto.</PrintAs>
+                <Phone>0999393899</Phone>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2017-03-02</HiredDate>
+                <BirthDate>1985-05-30</BirthDate>
+                <AccountNumber>1718578048</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800004DB-1328829715</ListID>
+                <TimeCreated>2012-02-09T17:21:55-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Mosquera Miranda Segundo Angel</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Mosquera Miranda</FirstName>
+                <LastName>Segundo Angel</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Responsable de Log&#237;stica</Addr1>
+                    <City>UE LOG&#205;STICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Mosquera Miranda Segundo Angel</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-02-09</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>8000204E-1501256127</ListID>
+                <TimeCreated>2017-07-28T10:35:27-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Moyano Analuisa Karla Cristina.</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Ms</Salutation>
+                <FirstName>Moyano Analuisa</FirstName>
+                <LastName>Karla Cristina.</LastName>
+                <EmployeeAddress>
+                    <Addr1>UE Marketing y Ventas</Addr1>
+                    <Addr2>UE Marketing y Ventas</Addr2>
+                    <City>Impulsadora</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Moyano Analuisa Karla Cristina.</PrintAs>
+                <Phone>2420943</Phone>
+                <Mobile>0984024463</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2017-07-24</HiredDate>
+                <BirthDate>1997-11-04</BirthDate>
+                <AccountNumber>1750911438</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800004DD-1328829943</ListID>
+                <TimeCreated>2012-02-09T17:25:43-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Murillo Gordillo Santiago Daniel</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Murillo Gordillo</FirstName>
+                <LastName>Santiago Daniel</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Representante de Ventas y Cobranza</Addr1>
+                    <City>UE LOG&#205;STICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Murillo Gordillo Santiago Daniel</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-02-09</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001AE4-1459255538</ListID>
+                <TimeCreated>2016-03-29T07:45:38-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Navas Ortega. Beatriz Andrea.</Name>
+                <IsActive>true</IsActive>
+                <Salutation>MS</Salutation>
+                <FirstName>Navas Ortega.</FirstName>
+                <LastName>Beatriz Andrea.</LastName>
+                <EmployeeAddress>
+                    <Addr1>Asistente de Ventas</Addr1>
+                    <City>UE Marketing y Ventas</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Navas Ortega Beatriz Andrea</PrintAs>
+                <Phone>3261087</Phone>
+                <Mobile>0984478408</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2016-03-21</HiredDate>
+                <BirthDate>1986-06-12</BirthDate>
+                <AccountNumber>1311987075</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80000D52-1372985994</ListID>
+                <TimeCreated>2013-07-04T19:59:54-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Ortiz Salas Nancy Mariela</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Ortiz Salas</FirstName>
+                <LastName>Nancy Mariela</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Jefe de Producci&#243;n</Addr1>
+                    <City>UE PRODUCCI&#211;N</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Ortiz Salas Nancy Mariela</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2013-06-17</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001FFE-1498600591</ListID>
+                <TimeCreated>2017-06-27T16:56:31-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Padilla Parody Angie Paola</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Ms</Salutation>
+                <FirstName>Padilla Parody</FirstName>
+                <LastName>Angie Paola</LastName>
+                <EmployeeAddress>
+                    <Addr1>UE Marketing y Ventas</Addr1>
+                    <Addr2>UE Marketing y Ventas</Addr2>
+                    <City>Impulsadora de Ventas</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Padilla Parody Angie Paola</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2017-06-12</HiredDate>
+                <BirthDate>1996-01-13</BirthDate>
+                <AccountNumber>0804237691</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80000674-1344033200</ListID>
+                <TimeCreated>2012-08-03T17:33:20-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Pagalo Poveda  Andr&#233;s Omar</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Pagalo Poveda</FirstName>
+                <LastName> Andr&#233;s Omar</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Realizador de Producci&#243;n</Addr1>
+                    <City>UE PRODUCCI&#211;N</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Pagalo Poveda  Andr&#233;s Omar</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-08-03</HiredDate>
+                <BirthDate>1990-06-13</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800012E6-1404749957</ListID>
+                <TimeCreated>2014-07-07T11:19:17-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Palma Carrasco M&#243;nica Paola</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Palma Carrasco</FirstName>
+                <LastName>M&#243;nica Paola</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Asistente Contable</Addr1>
+                    <City>UE FINANCIERA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Palma Carrasco M&#243;nica Paola</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2014-06-17</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001274-1402090002</ListID>
+                <TimeCreated>2014-06-06T16:26:42-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Parra Berrones Will Bol&#237;var</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Parra Berrones</FirstName>
+                <LastName>Will Bol&#237;var</LastName>
+                <EmployeeAddress>
+                    <City>U.E.LOGISTICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Parra Berrones Will Bol&#237;var</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2014-06-06</HiredDate>
+                <BirthDate>1972-09-28</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001498-1413924317</ListID>
+                <TimeCreated>2014-10-21T15:45:17-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Pilataxi Herrera Gustavo Adolfo</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Pilataxi Herrera</FirstName>
+                <LastName>Gustavo Adolfo</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Responsable de Logistica</Addr1>
+                    <City>UE LOGISTICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Pilataxi Herrera Gustavo Adolfo</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2014-09-29</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>8000104F-1391273211</ListID>
+                <TimeCreated>2014-02-01T10:46:51-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Quezada Sarango Luis Fernando</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Quezada Sarango</FirstName>
+                <LastName>Luis Fernando</LastName>
+                <EmployeeAddress>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Quezada Sarango Luis Fernando</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2014-01-20</HiredDate>
+                <BirthDate>1985-07-19</BirthDate>
+                <Notes>29/01/2015:  En enero completa un a&#241;o en la Empresa, provisionar y preguntar sobre Fondos de Reseva
+                </Notes>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>8000176A-1432830600</ListID>
+                <TimeCreated>2015-05-28T11:30:00-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Riofrio Mendoza Jose Luis</Name>
+                <IsActive>true</IsActive>
+                <Salutation>MR</Salutation>
+                <FirstName>Riofrio Mendoza</FirstName>
+                <LastName>Jose Luis</LastName>
+                <EmployeeAddress>
+                    <Addr1>UE LOG&#205;STICA</Addr1>
+                    <City>UE LOG&#205;STICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Riofrio Mendoza Jose Luis</PrintAs>
+                <Phone>2626596</Phone>
+                <Mobile>0986236080</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2015-05-04</HiredDate>
+                <BirthDate>1984-08-22</BirthDate>
+                <AccountNumber>1104195076</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800004E1-1328830353</ListID>
+                <TimeCreated>2012-02-09T17:32:33-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:47-06:00</TimeModified>
+                <EditSequence>1504122527</EditSequence>
+                <Name>Robalino Sinchiguano Ver&#243;nica Alexandra</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Robalino Sinchiguano</FirstName>
+                <LastName>Ver&#243;nica Alexandra</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Promotora de Ventas</Addr1>
+                    <City>UE MARKETING</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Robalino Sinchiguano Ver&#243;nica Alexandra</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2012-02-09</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800004E2-1328830458</ListID>
+                <TimeCreated>2012-02-09T17:34:18-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:58-06:00</TimeModified>
+                <EditSequence>1504122538</EditSequence>
+                <Name>Rodriguez Cede&#241;o Jennifer Fernanda</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Rodriguez Cede&#241;o</FirstName>
+                <LastName>Jennifer Fernanda</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Asistente de Ventas y Cobranza</Addr1>
+                    <City>UE VENTAS Y COBRANZA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Rodriguez Cede&#241;o Jennifer Fernanda</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2012-02-09</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80000550-1333493393</ListID>
+                <TimeCreated>2012-04-03T17:49:53-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:58-06:00</TimeModified>
+                <EditSequence>1504122538</EditSequence>
+                <Name>Rosero D&#237;az M&#243;nica Gabriela</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Rosero D&#237;az</FirstName>
+                <LastName>M&#243;nica Gabriela</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Promotora de Ventas</Addr1>
+                    <City>UE MARKETING</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Rosero D&#237;az M&#243;nica Gabriela</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2012-04-03</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001AE5-1459255831</ListID>
+                <TimeCreated>2016-03-29T07:50:31-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:58-06:00</TimeModified>
+                <EditSequence>1504122538</EditSequence>
+                <Name>Ruano Morales Milton Rodrigo</Name>
+                <IsActive>true</IsActive>
+                <Salutation>MR</Salutation>
+                <FirstName>Ruano Morales</FirstName>
+                <LastName>Milton Rodrigo</LastName>
+                <EmployeeAddress>
+                    <Addr1>Asistente de Control Interno</Addr1>
+                    <City>UE Finanzas y Contralor&#237;a</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Ruano Morales Milton Rodrigo</PrintAs>
+                <Phone>2343629</Phone>
+                <Mobile>0984388754</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2016-02-29</HiredDate>
+                <BirthDate>1988-03-06</BirthDate>
+                <AccountNumber>1722347869</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>800004E7-1328830907</ListID>
+                <TimeCreated>2012-02-09T17:41:47-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:58-06:00</TimeModified>
+                <EditSequence>1504122538</EditSequence>
+                <Name>Sanchez Padilla Gloria Margoth</Name>
+                <IsActive>true</IsActive>
+                <Salutation>S&#225;nchez Padilla</Salutation>
+                <FirstName>Sanchez Padilla</FirstName>
+                <LastName>Gloria Margoth</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Promotora de Ventas</Addr1>
+                    <City>UE MARKETING</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Sanchez Padilla Gloria Margoth</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2012-02-09</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001F9A-1496070749</ListID>
+                <TimeCreated>2017-05-29T10:12:29-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:58-06:00</TimeModified>
+                <EditSequence>1504122538</EditSequence>
+                <Name>Simba&#241;a Morales Cesar Humberto</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Mr</Salutation>
+                <FirstName>Simba&#241;a Morales</FirstName>
+                <LastName>Cesar Humberto</LastName>
+                <EmployeeAddress>
+                    <Addr1>UE. PRODUCCI&#211;N</Addr1>
+                    <City>RESPONSABLE DE PROCESO PRODUCTI</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Simba&#241;a Morales Cesar Humberto</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2017-05-02</HiredDate>
+                <BirthDate>1989-03-06</BirthDate>
+                <AccountNumber>1718511650</AccountNumber>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>8000050C-1330437799</ListID>
+                <TimeCreated>2012-02-28T08:03:19-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:58-06:00</TimeModified>
+                <EditSequence>1504122538</EditSequence>
+                <Name>Taco Pila Luis Franklin</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Taco Pila</FirstName>
+                <LastName>Luis Franklin</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Realizador de Producci&#243;n</Addr1>
+                    <City>UE PRODUCCI&#211;N</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Taco Pila Luis Franklin</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2012-02-28</HiredDate>
+                <BirthDate>1987-07-16</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>8000198C-1448499975</ListID>
+                <TimeCreated>2015-11-25T19:06:15-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:58-06:00</TimeModified>
+                <EditSequence>1504122538</EditSequence>
+                <Name>Top&#243;n Baez Danny David</Name>
+                <IsActive>true</IsActive>
+                <Salutation>MR</Salutation>
+                <FirstName>Top&#243;n Baez</FirstName>
+                <LastName>Danny David</LastName>
+                <EmployeeAddress>
+                    <Addr1>Responsable Proceso Productivo</Addr1>
+                    <City>UE Producci&#243;n</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Top&#243;n Baez Danny David</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2015-11-16</HiredDate>
+                <BirthDate>1994-10-27</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001615-1425056730</ListID>
+                <TimeCreated>2015-02-27T11:05:30-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:58-06:00</TimeModified>
+                <EditSequence>1504122538</EditSequence>
+                <Name>Toro Saltos Milton Arzuro</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Toro Saltos</FirstName>
+                <LastName>Milton Arzuro</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: T&#233;cnico en Seguridad y Salud Ocupa</Addr1>
+                    <City>UE Administraci&#243;n</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Toro Saltos Milton Arzuro</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <HiredDate>2015-02-13</HiredDate>
+                <BirthDate>1990-10-21</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80000BA2-1365199516</ListID>
+                <TimeCreated>2013-04-05T17:05:16-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:58-06:00</TimeModified>
+                <EditSequence>1504122538</EditSequence>
+                <Name>Ushi&#241;a Pillajo Christian Fernando</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Ushi&#241;a Pillajo</FirstName>
+                <LastName>Christian Fernando</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Responsable de Log&#237;stica</Addr1>
+                    <City>UE: LOG&#205;STICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Ushi&#241;a Pillajo Christian Fernando</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2013-04-01</HiredDate>
+                <BirthDate>1982-01-31</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001616-1425057032</ListID>
+                <TimeCreated>2015-02-27T11:10:32-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:58-06:00</TimeModified>
+                <EditSequence>1504122538</EditSequence>
+                <Name>Valdez Vega Gladys Liliana</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Valdez Vega</FirstName>
+                <LastName>Gladys Liliana</LastName>
+                <EmployeeAddress>
+                    <Addr1>Cargo: Responsable de Atenci&#243;n al Cliente</Addr1>
+                    <City>UE Ventas Directas</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Valdez Vega Gladys Liliana</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <HiredDate>2015-02-12</HiredDate>
+                <BirthDate>1983-02-05</BirthDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80001272-1402089647</ListID>
+                <TimeCreated>2014-06-06T16:20:47-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:58-06:00</TimeModified>
+                <EditSequence>1504122538</EditSequence>
+                <Name>Zambrano Quintero Neftali.</Name>
+                <IsActive>true</IsActive>
+                <FirstName>Zambrano Quintero</FirstName>
+                <LastName>Neftali.</LastName>
+                <EmployeeAddress>
+                    <City>U.E.LOGISTICA</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Zambrano Quintero Neftali</PrintAs>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Male</Gender>
+                <HiredDate>2014-06-06</HiredDate>
+            </EmployeeRet>
+            <EmployeeRet>
+                <ListID>80002001-1498601177</ListID>
+                <TimeCreated>2017-06-27T17:06:17-06:00</TimeCreated>
+                <TimeModified>2017-08-30T14:48:58-06:00</TimeModified>
+                <EditSequence>1504122538</EditSequence>
+                <Name>Zurita Iza Erika Michelle</Name>
+                <IsActive>true</IsActive>
+                <Salutation>Ms</Salutation>
+                <FirstName>Zurita Iza</FirstName>
+                <LastName>Erika Michelle</LastName>
+                <EmployeeAddress>
+                    <Addr1>UE Producci&#243;n</Addr1>
+                    <Addr2>UE Producci&#243;n</Addr2>
+                    <City>Asistente de Producci&#243;n</City>
+                    <State>None</State>
+                </EmployeeAddress>
+                <PrintAs>Zurita Iza Erika Michelle</PrintAs>
+                <Phone>3463755</Phone>
+                <Mobile>0987263023</Mobile>
+                <EmployeeType>Regular</EmployeeType>
+                <Gender>Female</Gender>
+                <HiredDate>2017-06-14</HiredDate>
+                <BirthDate>1992-11-15</BirthDate>
+                <AccountNumber>1721601415</AccountNumber>
+            </EmployeeRet>
+        </EmployeeQueryRs>
+    </QBXMLMsgsRs>
+</QBXML>

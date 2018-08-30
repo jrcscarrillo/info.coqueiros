@@ -1,0 +1,83 @@
+requestID 7 user jrcscarrillo action InvoiceAdd id 1113 action time  locale US\r\n<?xml version="1.0" ?>
+        <?qbxml version="13.0"?>
+<QBXML>
+    <QBXMLMsgsRq onError="stopOnError">
+        <InvoiceAddRq requestID="7">
+            <InvoiceAdd>
+                <CustomerRef>
+                    <ListID >800000D3-1325103412</ListID>
+                    <FullName >CHANG CORDOVA RENNE ANTONINA</FullName> 
+                </CustomerRef>  
+                <RefNumber >1113</RefNumber>
+                <BillAddress>
+                    <Addr1 >Vía a Santa Elena , Av principal S/N</Addr1>                    
+                    <City >Salinas</City>                     
+                    <State >Santa Elena</State>                     
+                    <PostalCode >24000</PostalCode>                     
+                    <Country >Ecuador</Country>                     
+                </BillAddress>
+                <ShipAddress>
+                    <Addr1 >Vía a Santa Elena , Av principal S/N</Addr1>                    
+                    <City >Salinas</City>                     
+                    <State >Santa Elena</State>                     
+                    <PostalCode >24000</PostalCode>                     
+                    <Country >Ecuador</Country>                                                         
+                </ShipAddress>
+                <PONumber >OC 000901</PONumber>
+                <TermsRef>
+                    <ListID >80000009-1317136602</ListID>
+                    <FullName >Neto 15 días</FullName> 
+                </TermsRef>                      
+                <SalesRepRef>
+                    <ListID >80000023-1480345413</ListID>
+                    <FullName >BVA</FullName> 
+                </SalesRepRef>
+                <Memo>estamos en pruebas</Memo><SalesOrderLineAdd>
+                    <ItemRef>
+                        <ListID >80000001-1316627288</ListID>
+                        <FullName >Helados Súper:001</FullName>
+                    </ItemRef>
+                    <Desc >7862102271008 Coqueiro Súper 110 g. Coco</Desc>
+                    <Quantity >10.00</Quantity>                    
+                    <Rate >1.00</Rate>
+                    <Amount >10.00</Amount>
+                </SalesOrderLineAdd><SalesOrderLineAdd>
+                    <ItemRef>
+                        <ListID >8000003E-1320778280</ListID>
+                        <FullName >Helados Súper:002</FullName>
+                    </ItemRef>
+                    <Desc >7862102271107 Coqueiro Súper 110 g. Mora</Desc>
+                    <Quantity >10.00</Quantity>                    
+                    <Rate >1.00</Rate>
+                    <Amount >10.00</Amount>
+                </SalesOrderLineAdd><SalesOrderLineAdd>
+                    <ItemRef>
+                        <ListID >80000040-1320781116</ListID>
+                        <FullName >Helados Súper:003</FullName>
+                    </ItemRef>
+                    <Desc >7862102271206 Coqueiro Súper 110g. Naranjilla</Desc>
+                    <Quantity >10.00</Quantity>                    
+                    <Rate >1.00</Rate>
+                    <Amount >10.00</Amount>
+                </SalesOrderLineAdd><SalesOrderLineAdd>
+                    <ItemRef>
+                        <ListID >80000042-1320782182</ListID>
+                        <FullName >Helados Súper:004</FullName>
+                    </ItemRef>
+                    <Desc >7862102271305 Coqueiro Súper 110g. Taxo</Desc>
+                    <Quantity >9.00</Quantity>                    
+                    <Rate >1.00</Rate>
+                    <Amount >9.00</Amount>
+                </SalesOrderLineAdd><SalesOrderLineAdd>
+                    <ItemRef>
+                        <ListID >80000044-1320782789</ListID>
+                        <FullName >Helados Súper:005</FullName>
+                    </ItemRef>
+                    <Desc >7862102271404 Coqueiro Súper 110g. Chocolate</Desc>
+                    <Quantity >9.00</Quantity>                    
+                    <Rate >1.00</Rate>
+                    <Amount >9.00</Amount>
+                </SalesOrderLineAdd></InvoiceAdd>
+        </InvoiceAddRq>
+    </QBXMLMsgsRq>
+</QBXML>

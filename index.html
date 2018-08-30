@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>Coqueiros</title>
+
+        <link href="./css/demos.css" type="text/css" rel="stylesheet">
+        <link href="./css/menuzord.css" type="text/css" rel="stylesheet">
+        <link href='./css/skins/menuzord-colored.css' rel='stylesheet'>
+        <link id="main-css" href="css/menuzord-animations.css" type="text/css" rel="stylesheet">
+
+    </head>
+    <body>
+        <div class="content">
+            <div id="menuzord" class="menuzord orange">
+                <a href="javascript:void(0)" class="menuzord-brand"><img src="./img/logo.png"></a>
+                <ul class="menuzord-menu">
+                    <li class="active"><a href="login.php">Login</a></li>
+                    <li><a href="javascript:void(0)">Administracion</a>
+                        <ul class="dropdown">
+                            <li><a href="#">Clientes</a></li>
+                            <li><a href="#">Pedidos</a></li>
+                            <li><a href="#">Vendedores</a></li>
+                            <li><a href="#">Rutas</a></li>
+                            <li><a href="#">Utilitarios</a>
+                                <ul class="dropdown">
+                                    <li><a href="./habilita.php">Autorizar Usuario</a></li>
+                                    <li><a href="./creaUsuario.php">Crear Usuario WC</a></li>
+                                    <li><a href="./cleanLogs.php">Limpiar Logs</a></li>
+                                    <li><a href="./fechasSync.php">Modificar Fechas de Sincronizacion</a></li>
+                                    <li><a href="./creaQWC.php">Crear Aplicacion WC</a></li>
+                                    <li><a href="./Coqueiros_Ventas/index.html">Instrucciones</a></li>
+                                    <li><a href="./creaApp.php">Carrillos Team Option</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li><a href="javascript:void(0)">Facturacion Electronica</a>
+                        <ul class="dropdown">
+                            <li><a href="#">Facturas</a></li>
+                            <li><a href="#">Guias</a></li>
+                            <li><a href="#">Notas CR</a></li>
+                            <li><a href="#">Notas DB</a></li>
+                            <li><a href="#">Servicios</a>
+                                <ul class="dropdown">
+                                    <li><a href="#">Autorizar</a></li>
+                                    <li><a href="#">Firmar</a></li>
+                                    <li><a href="#">Autorizados</a></li>
+                                    <li><a href="#">No autorizados</a></li>
+                                    <li><a href="#">Revisar SRI</a></li>
+                                    <li><a href="#">Contingencia</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="active"><a href="logout.php">Salir</a></li>
+                </ul>
+            </div>
+        </div>
+    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/menuzord.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            jQuery("#menuzord").menuzord({
+                align: "right",
+                effect: "slide",
+                animation: "flip"
+            });
+        });
+    </script>
+    </body>
+
+</html>

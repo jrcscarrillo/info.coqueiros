@@ -1,0 +1,241 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <title>Fechas de Sincronizacion</title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+        <link rel="stylesheet" href="css/demo.css">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/sky-forms.css">
+        <link rel="stylesheet" href="css/sky-forms-orange.css">
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+        <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.12.0/jquery.validate.js"></script>
+        <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.12.0/additional-methods.js"></script>
+    </head>
+
+    <body class="bg-black">
+        <div class="body body-s">		
+            <form action="./docs/web_connector/fechasSync.php" id="sky-form" class="sky-form" method="POST">
+                <header>Fechas Sincronizacion</header>
+
+                <fieldset>
+                    <label class="label">Facturas de Compras</label>	
+                    <div class="row">
+                        <section class="col col-6">
+                            <label class="input">
+                                <i class="icon-append fa fa-calendar"></i>
+                                <input type="text" name="billstart" id="billstart" placeholder="Fecha: Desde">
+                            </label>
+                        </section>
+                        <section class="col col-6">
+                            <label class="input">
+                                <i class="icon-append fa fa-calendar"></i>
+                                <input type="text" name="billfinish" id="billfinish" placeholder="Fecha: Hasta">
+                            </label>
+                        </section>
+                    </div>
+                </fieldset>
+                
+                <fieldset>
+                    <label class="label">Facturas de Ventas</label>	
+                    <div class="row">
+                        <section class="col col-6">
+                            <label class="input">
+                                <i class="icon-append fa fa-calendar"></i>
+                                <input type="text" name="invoicestart" id="invoicestart" placeholder="Fecha: Desde">
+                            </label>
+                        </section>
+                        <section class="col col-6">
+                            <label class="input">
+                                <i class="icon-append fa fa-calendar"></i>
+                                <input type="text" name="invoicefinish" id="invoicefinish" placeholder="Fecha: Hasta">
+                            </label>
+                        </section>
+                    </div>
+                </fieldset>
+                
+                <fieldset>
+                    <label class="label">Retenciones de Ventas CreditMemo</label>	
+                    <div class="row">
+                        <section class="col col-6">
+                            <label class="input">
+                                <i class="icon-append fa fa-calendar"></i>
+                                <input type="text" name="creditmemostart" id="creditmemostart" placeholder="Fecha: Desde">
+                            </label>
+                        </section>
+                        <section class="col col-6">
+                            <label class="input">
+                                <i class="icon-append fa fa-calendar"></i>
+                                <input type="text" name="creditmemofinish" id="creditmemofinish" placeholder="Fecha: Hasta">
+                            </label>
+                        </section>
+                    </div>
+                </fieldset>
+                
+                <fieldset>
+                    <label class="label">Retenciones de Compras va al QB</label>	
+                    <div class="row">
+                        <section class="col col-6">
+                            <label class="input">
+                                <i class="icon-append fa fa-calendar"></i>
+                                <input type="text" name="billcreditstart" id="billcreditstart" placeholder="Fecha: Desde">
+                            </label>
+                        </section>
+                        <section class="col col-6">
+                            <label class="input">
+                                <i class="icon-append fa fa-calendar"></i>
+                                <input type="text" name="billcreditfinish" id="billcreditfinish" placeholder="Fecha: Hasta">
+                            </label>
+                        </section>
+                    </div>
+                </fieldset>
+                
+                <fieldset>
+                    <label class="label">Ordenes de Produccion</label>	
+                    <div class="row">
+                        <section class="col col-6">
+                            <label class="input">
+                                <i class="icon-append fa fa-calendar"></i>
+                                <input type="text" name="productionstart" id="productionstart" placeholder="Fecha: Desde">
+                            </label>
+                        </section>
+                        <section class="col col-6">
+                            <label class="input">
+                                <i class="icon-append fa fa-calendar"></i>
+                                <input type="text" name="productionfinish" id="productionfinish" placeholder="Fecha: Hasta">
+                            </label>
+                        </section>
+                    </div>
+                </fieldset>
+                
+                <fieldset>
+                    <label class="label">Listas de Datos</label>	
+                    <div class="row">
+                        <section class="col col-6">
+                            <label class="input">
+                                <i class="icon-append fa fa-calendar"></i>
+                                <input type="text" name="otrosstart" id="otrosstart" placeholder="Fecha: Desde">
+                            </label>
+                        </section>
+                        <section class="col col-6">
+                            <label class="input">
+                                <i class="icon-append fa fa-calendar"></i>
+                                <input type="text" name="otrosfinish" id="otrosfinish" placeholder="Fecha: Hasta">
+                            </label>
+                        </section>
+                    </div>
+                </fieldset>
+
+                <footer>
+                    <label class="label">Tenga en consideracion estas fechas son la conexion entre QB, WebSite y los resultados de Facturacion Electronica y ATS.</label>
+                    <button type="submit" class="button">Procesar</button>
+                    <button type="button" class="button button-secondary" onclick="window.history.back();">Regresar</button>
+                </footer>
+            </form>			
+        </div>
+        <script type="text/javascript">
+            $(function () {
+                // Datepickers
+                $('#billstart').datepicker({
+                    dateFormat: 'dd.mm.yy',
+                    prevText: '<i class="fa fa-chevron-left"></i>',
+                    nextText: '<i class="fa fa-chevron-right"></i>',
+                    onSelect: function (selectedDate) {
+                        $('#billfinish').datepicker('option', 'minDate', selectedDate);
+                    }
+                });
+                $('#billfinish').datepicker({
+                    dateFormat: 'dd.mm.yy',
+                    prevText: '<i class="fa fa-chevron-left"></i>',
+                    nextText: '<i class="fa fa-chevron-right"></i>',
+                    onSelect: function (selectedDate) {
+                        $('#billstart').datepicker('option', 'maxDate', selectedDate);
+                    }
+                });
+                $('#invoicestart').datepicker({
+                    dateFormat: 'dd.mm.yy',
+                    prevText: '<i class="fa fa-chevron-left"></i>',
+                    nextText: '<i class="fa fa-chevron-right"></i>',
+                    onSelect: function (selectedDate) {
+                        $('#invoicefinish').datepicker('option', 'minDate', selectedDate);
+                    }
+                });
+                $('#invoicefinish').datepicker({
+                    dateFormat: 'dd.mm.yy',
+                    prevText: '<i class="fa fa-chevron-left"></i>',
+                    nextText: '<i class="fa fa-chevron-right"></i>',
+                    onSelect: function (selectedDate) {
+                        $('#invoicestart').datepicker('option', 'maxDate', selectedDate);
+                    }
+                });
+                $('#creditmemostart').datepicker({
+                    dateFormat: 'dd.mm.yy',
+                    prevText: '<i class="fa fa-chevron-left"></i>',
+                    nextText: '<i class="fa fa-chevron-right"></i>',
+                    onSelect: function (selectedDate) {
+                        $('#creditmemofinish').datepicker('option', 'minDate', selectedDate);
+                    }
+                });
+                $('#creditmemofinish').datepicker({
+                    dateFormat: 'dd.mm.yy',
+                    prevText: '<i class="fa fa-chevron-left"></i>',
+                    nextText: '<i class="fa fa-chevron-right"></i>',
+                    onSelect: function (selectedDate) {
+                        $('#creditmemostart').datepicker('option', 'maxDate', selectedDate);
+                    }
+                });
+                $('#billcreditstart').datepicker({
+                    dateFormat: 'dd.mm.yy',
+                    prevText: '<i class="fa fa-chevron-left"></i>',
+                    nextText: '<i class="fa fa-chevron-right"></i>',
+                    onSelect: function (selectedDate) {
+                        $('#billcreditfinish').datepicker('option', 'minDate', selectedDate);
+                    }
+                });
+                $('#billcreditfinish').datepicker({
+                    dateFormat: 'dd.mm.yy',
+                    prevText: '<i class="fa fa-chevron-left"></i>',
+                    nextText: '<i class="fa fa-chevron-right"></i>',
+                    onSelect: function (selectedDate) {
+                        $('#billcreditstart').datepicker('option', 'maxDate', selectedDate);
+                    }
+                });
+                $('#productionstart').datepicker({
+                    dateFormat: 'dd.mm.yy',
+                    prevText: '<i class="fa fa-chevron-left"></i>',
+                    nextText: '<i class="fa fa-chevron-right"></i>',
+                    onSelect: function (selectedDate) {
+                        $('#productionfinish').datepicker('option', 'minDate', selectedDate);
+                    }
+                });
+                $('#productionfinish').datepicker({
+                    dateFormat: 'dd.mm.yy',
+                    prevText: '<i class="fa fa-chevron-left"></i>',
+                    nextText: '<i class="fa fa-chevron-right"></i>',
+                    onSelect: function (selectedDate) {
+                        $('#productionstart').datepicker('option', 'maxDate', selectedDate);
+                    }
+                });
+                $('#otrosstart').datepicker({
+                    dateFormat: 'dd.mm.yy',
+                    prevText: '<i class="fa fa-chevron-left"></i>',
+                    nextText: '<i class="fa fa-chevron-right"></i>',
+                    onSelect: function (selectedDate) {
+                        $('#otrosfinish').datepicker('option', 'minDate', selectedDate);
+                    }
+                });
+                $('#otrosfinish').datepicker({
+                    dateFormat: 'dd.mm.yy',
+                    prevText: '<i class="fa fa-chevron-left"></i>',
+                    nextText: '<i class="fa fa-chevron-right"></i>',
+                    onSelect: function (selectedDate) {
+                        $('#otrosstart').datepicker('option', 'maxDate', selectedDate);
+                    }
+                });
+            });
+        </script>
+    </body>
+</html>

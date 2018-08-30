@@ -1,0 +1,151 @@
+body {
+    padding-top: 5px;
+}
+
+#main-container {
+    position: relative;
+}
+
+.divider {
+    height: 4px;
+    background: url(../img/headerstripe.png) repeat-x;
+}
+
+.divider img {
+    visibility: hidden;
+}
+
+#logo {
+    padding: 0 0 0 2%;
+    margin-bottom: 7%;
+    margin-left: 13%;
+}
+
+#logo img {
+    width: 40%;   
+}
+
+.titulo {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+
+#first-container .info-container{
+    min-height: 80px;
+}
+
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.info-container {
+    margin: 0 2%;
+    padding: 0;
+    background-color: #eef;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    font-size: smaller;
+    word-break: break-all;
+}
+
+.info-container .col-md-6, #nro-codigo-barras {
+    word-break:break-all;
+}
+
+#second-container {
+    margin: 1% 0 1% 0;
+    border: 1px solid #ccc;
+}
+#third-container {
+    margin: 1% 0 1% 0;
+    border: 1px solid #ccc;
+}
+
+#fourth-container {
+    margin: 1% 0 1% 0;
+    border: 1px solid #ccc;
+}
+#second-container .col-md-6 {
+   /* padding: 1px 2px;*/
+}
+.division {
+    height: 15px;
+}
+.division150 {
+    width: 30%;
+    height: 25px;
+}
+.division250 {
+    width: 68%;
+    height: 25px;
+}
+.division350 {
+    width: 48%;
+    height: 25px;
+}
+
+.cabecerta-tabla{
+    font-size: 9px;
+}
+
+.table td {
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+}
+
+.align-right {
+    text-align: right !important; 
+}
+
+.align-center {
+    text-align: center !important; 
+}
+
+.first {
+    padding-top: 1%;   
+}
+
+#info-adicional {
+    margin-top: 1%;
+}
+
+#ruc {
+    font-size: large;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+#autorizacion {
+    /*font-size: 1.6em;*/
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.codigo {
+    min-width: 100px;
+    max-width: 110px;
+}
+
+.descripcion {
+    min-width: 300px;
+    max-width: 320px
+}
+
+@media print {
+  .visible-print  { display: inherit !important; }
+  .hidden-print   { display: none !important; }
+}
+
+.ochopx {
+ font-size: 8px;
+ height: 14px !important;
+ line-height: 80%;
+}
+.diezpx {
+ font-size: 10px;
+ height: 14px !important;
+ line-height: 80%;
+}

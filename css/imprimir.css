@@ -1,0 +1,30 @@
+h2 {
+    font-size: 1.3em !important;
+}
+
+#informacion-adicional {
+    width: 300px !important;
+}
+
+.divider {
+    margin:auto;
+    width: 100% !important;
+}
+
+.divider img {
+    visibility: visible;
+    width: 100% !important;
+}
+
+.info-container {
+    padding: 4% 3% !important;
+    background-color: #eef !important;
+}
+
+#second-container .span6 {
+    padding: 1%;
+}
+
+#subtotales {
+    float: right;
+}
